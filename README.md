@@ -4,7 +4,6 @@
 
 **Authors:** Shamim Ehsan, Aaron Zambran, Elizabeth Martin, Alejandra De La Pena, Thinley Jurmi, Angel Coronel, Salamah Salamah, M. Shahriar Hossain, Monika Akbar. **Affiliation:** The University of Texas at El Paso.
 
-Conference acronym: ICSS (author supplied). The full venue name, publication year, DOI, proceedings pages, and final paper URL are not established by the provided camera-ready document. Citation metadata intentionally omit those fields. Author spellings follow the PDF.
 
 ## Paper, data, and model repositories
 
