@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the camera-ready paper. Full proceedings metadata and final paper URL remain to be supplied."
+title: "Bridging Cybersecurity Taxonomies: CAPEC-Mediated Representation Learning for CWE–ATT&CK Retrieval"
+type: dataset
+authors:
+  - name: "Shamim Ehsan"
+  - name: "Aaron Zambran"
+  - name: "Elizabeth Martin"
+  - name: "Alejandra De La Pena"
+  - name: "Thinley Jurmi"
+  - name: "Angel Coronel"
+  - name: "Salamah Salamah"
+  - name: "M. Shahriar Hossain"
+  - name: "Monika Akbar"
+abstract: "Datasets, benchmarks, and links to four fine-tuned encoders for CAPEC-mediated CWE–ATT&CK retrieval."

@@ -1,0 +1,9 @@
+# Limitations and implementation notes
+
+The strict endpoint test contains only 49 CWE→ATT&CK and 34 ATT&CK→CWE queries. Endpoint relevance is induced through CAPEC rather than independently annotated. Unseen endpoint relationships do not imply entirely unseen endpoint concepts. Training uses one fixed seed, so reported uncertainty does not measure variation across training runs. Generated symptoms are controlled rewrites, not independent analyst observations, and may retain weakness cues or omit distinguishing information. Scores rank candidates; they do not establish causality or a definitive vulnerability classification.
+
+The exact candidate corpus, labels, query texts, partitions, and ordering are preserved. The raw ATT&CK text contains multiple object types; only `attack-pattern` entries are retrieval candidates. Candidate text must be constructed as specified in the protocol. Source snapshot identifiers are not recoverable for every taxonomy. CAPEC 3.9 and CWE 4.17 are the versions reported by the paper; the release does not invent missing source commit identifiers.
+
+The paper describes a Weaviate indexing workflow; the saved-result evaluators use exact normalized embedding matrix products and NumPy sorting. The identified CWE-only trainer uses a directional loss while joint training uses symmetric losses. The symptom generator's implemented wording differs slightly from Appendix A. Frozen generated text is the authoritative evaluation input.
+
+Explicit weakness phrases are diagnostic flags, not a separate low-leakage exclusion condition. CISA statistics apply Holm correction within comparison × model × query type × target-exposure families (three metrics). The endpoint significance outputs contain uncorrected permutation p-values; do not label them Holm-corrected. No experimental results were rerun to create this release. Full original training/evaluation source code is not included.

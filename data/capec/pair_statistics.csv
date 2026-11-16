@@ -1,0 +1,7 @@
+split,capec_ids,positive_pairs,unique_targets,task
+test,69,181,130,cwe
+train,314,843,286,cwe
+val,67,188,126,cwe
+test,28,46,41,attack
+train,123,188,141,attack
+val,26,37,36,attack

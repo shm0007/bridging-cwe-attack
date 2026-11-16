@@ -1,0 +1,617 @@
+capec_id,capec_name,cwe_id,attack_id,is_ics,evidence_type
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-276,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-285,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-434,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-693,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-732,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1191,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1193,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1220,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1297,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1311,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1314,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1315,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1318,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1320,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1321,T1574.010,True,shared_CAPEC_pattern
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1327,T1574.010,True,shared_CAPEC_pattern
+CAPEC-11,Cause Web Server Misclassification,CWE-430,T1036.006,False,shared_CAPEC_pattern
+CAPEC-112,Brute Force,CWE-326,T1110,False,shared_CAPEC_pattern
+CAPEC-112,Brute Force,CWE-330,T1110,False,shared_CAPEC_pattern
+CAPEC-112,Brute Force,CWE-521,T1110,False,shared_CAPEC_pattern
+CAPEC-114,Authentication Abuse,CWE-287,T1548,False,shared_CAPEC_pattern
+CAPEC-114,Authentication Abuse,CWE-1244,T1548,False,shared_CAPEC_pattern
+CAPEC-115,Authentication Bypass,CWE-287,T1548,False,shared_CAPEC_pattern
+CAPEC-122,Privilege Abuse,CWE-269,T1548,False,shared_CAPEC_pattern
+CAPEC-122,Privilege Abuse,CWE-732,T1548,False,shared_CAPEC_pattern
+CAPEC-122,Privilege Abuse,CWE-1317,T1548,False,shared_CAPEC_pattern
+CAPEC-125,Flooding,CWE-404,T1498.001,True,shared_CAPEC_pattern
+CAPEC-125,Flooding,CWE-404,T1499,True,shared_CAPEC_pattern
+CAPEC-125,Flooding,CWE-770,T1498.001,True,shared_CAPEC_pattern
+CAPEC-125,Flooding,CWE-770,T1499,True,shared_CAPEC_pattern
+CAPEC-127,Directory Indexing,CWE-276,T1083,False,shared_CAPEC_pattern
+CAPEC-127,Directory Indexing,CWE-285,T1083,False,shared_CAPEC_pattern
+CAPEC-127,Directory Indexing,CWE-288,T1083,False,shared_CAPEC_pattern
+CAPEC-127,Directory Indexing,CWE-424,T1083,False,shared_CAPEC_pattern
+CAPEC-127,Directory Indexing,CWE-425,T1083,False,shared_CAPEC_pattern
+CAPEC-127,Directory Indexing,CWE-693,T1083,False,shared_CAPEC_pattern
+CAPEC-127,Directory Indexing,CWE-732,T1083,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-15,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-15,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-15,T1574.007,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-20,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-20,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-20,T1574.007,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-73,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-73,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-73,T1574.007,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-74,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-74,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-74,T1574.007,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-200,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-200,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-200,T1574.007,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-285,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-285,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-285,T1574.007,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-302,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-302,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-302,T1574.007,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-353,T1562.003,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-353,T1574.006,False,shared_CAPEC_pattern
+CAPEC-13,Subverting Environment Variable Values,CWE-353,T1574.007,False,shared_CAPEC_pattern
+CAPEC-130,Excessive Allocation,CWE-404,T1499.003,True,shared_CAPEC_pattern
+CAPEC-130,Excessive Allocation,CWE-770,T1499.003,True,shared_CAPEC_pattern
+CAPEC-130,Excessive Allocation,CWE-1325,T1499.003,True,shared_CAPEC_pattern
+CAPEC-131,Resource Leak Exposure,CWE-404,T1499,True,shared_CAPEC_pattern
+CAPEC-132,Symlink Attack,CWE-59,T1547.009,False,shared_CAPEC_pattern
+CAPEC-141,Cache Poisoning,CWE-345,T1557.002,True,shared_CAPEC_pattern
+CAPEC-141,Cache Poisoning,CWE-346,T1557.002,True,shared_CAPEC_pattern
+CAPEC-141,Cache Poisoning,CWE-348,T1557.002,True,shared_CAPEC_pattern
+CAPEC-141,Cache Poisoning,CWE-349,T1557.002,True,shared_CAPEC_pattern
+CAPEC-142,DNS Cache Poisoning,CWE-345,T1584.002,False,shared_CAPEC_pattern
+CAPEC-142,DNS Cache Poisoning,CWE-346,T1584.002,False,shared_CAPEC_pattern
+CAPEC-142,DNS Cache Poisoning,CWE-348,T1584.002,False,shared_CAPEC_pattern
+CAPEC-142,DNS Cache Poisoning,CWE-349,T1584.002,False,shared_CAPEC_pattern
+CAPEC-142,DNS Cache Poisoning,CWE-350,T1584.002,False,shared_CAPEC_pattern
+CAPEC-148,Content Spoofing,CWE-345,T1491,True,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-552,T1003,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-552,T1119,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-552,T1213,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-552,T1530,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-552,T1555,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-552,T1602,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1239,T1003,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1239,T1119,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1239,T1213,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1239,T1530,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1239,T1555,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1239,T1602,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1258,T1003,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1258,T1119,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1258,T1213,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1258,T1530,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1258,T1555,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1258,T1602,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1266,T1003,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1266,T1119,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1266,T1213,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1266,T1530,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1266,T1555,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1266,T1602,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1272,T1003,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1272,T1119,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1272,T1213,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1272,T1530,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1272,T1555,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1272,T1602,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1323,T1003,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1323,T1119,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1323,T1213,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1323,T1530,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1323,T1555,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1323,T1602,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1330,T1003,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1330,T1119,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1330,T1213,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1330,T1530,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1330,T1555,False,shared_CAPEC_pattern
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1330,T1602,False,shared_CAPEC_pattern
+CAPEC-158,Sniffing Network Traffic,CWE-311,T1040,True,shared_CAPEC_pattern
+CAPEC-158,Sniffing Network Traffic,CWE-311,T1111,True,shared_CAPEC_pattern
+CAPEC-159,Redirect Access to Libraries,CWE-706,T1574.008,False,shared_CAPEC_pattern
+CAPEC-163,Spear Phishing,CWE-451,T1534,True,shared_CAPEC_pattern
+CAPEC-163,Spear Phishing,CWE-451,T1566.001,True,shared_CAPEC_pattern
+CAPEC-163,Spear Phishing,CWE-451,T1566.002,True,shared_CAPEC_pattern
+CAPEC-163,Spear Phishing,CWE-451,T1566.003,True,shared_CAPEC_pattern
+CAPEC-163,Spear Phishing,CWE-451,T1598.001,True,shared_CAPEC_pattern
+CAPEC-163,Spear Phishing,CWE-451,T1598.002,True,shared_CAPEC_pattern
+CAPEC-163,Spear Phishing,CWE-451,T1598.003,True,shared_CAPEC_pattern
+CAPEC-169,Footprinting,CWE-200,T1217,True,shared_CAPEC_pattern
+CAPEC-169,Footprinting,CWE-200,T1592,True,shared_CAPEC_pattern
+CAPEC-169,Footprinting,CWE-200,T1595,True,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-59,T1574.005,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-59,T1574.010,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-270,T1574.005,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-270,T1574.010,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-272,T1574.005,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-272,T1574.010,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-282,T1574.005,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-282,T1574.010,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-285,T1574.005,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-285,T1574.010,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-693,T1574.005,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-693,T1574.010,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-732,T1574.005,False,shared_CAPEC_pattern
+CAPEC-17,Using Malicious Files,CWE-732,T1574.010,False,shared_CAPEC_pattern
+CAPEC-177,Create files with the same name as files protected with a higher classification,CWE-706,T1036,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-732,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1190,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1191,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1193,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1220,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1268,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1280,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1297,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1311,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1315,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1318,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1320,T1574.010,True,shared_CAPEC_pattern
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1321,T1574.010,True,shared_CAPEC_pattern
+CAPEC-186,Malicious Software Update,CWE-494,T1195.002,False,shared_CAPEC_pattern
+CAPEC-187,Malicious Automated Software Update via Redirection,CWE-494,T1072,False,shared_CAPEC_pattern
+CAPEC-19,Embedding Scripts within Scripts,CWE-284,T1027.009,False,shared_CAPEC_pattern
+CAPEC-19,Embedding Scripts within Scripts,CWE-284,T1546.004,False,shared_CAPEC_pattern
+CAPEC-19,Embedding Scripts within Scripts,CWE-284,T1546.016,False,shared_CAPEC_pattern
+CAPEC-191,Read Sensitive Constants Within an Executable,CWE-798,T1552.001,True,shared_CAPEC_pattern
+CAPEC-196,Session Credential Falsification through Forging,CWE-384,T1134.002,False,shared_CAPEC_pattern
+CAPEC-196,Session Credential Falsification through Forging,CWE-384,T1134.003,False,shared_CAPEC_pattern
+CAPEC-196,Session Credential Falsification through Forging,CWE-384,T1606,False,shared_CAPEC_pattern
+CAPEC-196,Session Credential Falsification through Forging,CWE-664,T1134.002,False,shared_CAPEC_pattern
+CAPEC-196,Session Credential Falsification through Forging,CWE-664,T1134.003,False,shared_CAPEC_pattern
+CAPEC-196,Session Credential Falsification through Forging,CWE-664,T1606,False,shared_CAPEC_pattern
+CAPEC-2,Inducing Account Lockout,CWE-645,T1531,False,shared_CAPEC_pattern
+CAPEC-203,Manipulate Registry Information,CWE-15,T1112,False,shared_CAPEC_pattern
+CAPEC-203,Manipulate Registry Information,CWE-15,T1647,False,shared_CAPEC_pattern
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-311,T1005,False,shared_CAPEC_pattern
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-524,T1005,False,shared_CAPEC_pattern
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-1239,T1005,False,shared_CAPEC_pattern
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-1258,T1005,False,shared_CAPEC_pattern
+CAPEC-206,Signing Malicious Code,CWE-732,T1553.002,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-6,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-6,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-6,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-290,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-290,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-290,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-302,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-302,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-302,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-346,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-346,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-346,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-384,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-384,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-384,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-539,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-539,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-539,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-602,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-602,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-602,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-642,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-642,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-642,T1539,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-664,T1134,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-664,T1528,False,shared_CAPEC_pattern
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-664,T1539,False,shared_CAPEC_pattern
+CAPEC-227,Sustained Client Engagement,CWE-400,T1499,True,shared_CAPEC_pattern
+CAPEC-233,Privilege Escalation,CWE-269,T1548,False,shared_CAPEC_pattern
+CAPEC-233,Privilege Escalation,CWE-1264,T1548,False,shared_CAPEC_pattern
+CAPEC-233,Privilege Escalation,CWE-1311,T1548,False,shared_CAPEC_pattern
+CAPEC-25,Forced Deadlock,CWE-412,T1499.004,False,shared_CAPEC_pattern
+CAPEC-25,Forced Deadlock,CWE-567,T1499.004,False,shared_CAPEC_pattern
+CAPEC-25,Forced Deadlock,CWE-662,T1499.004,False,shared_CAPEC_pattern
+CAPEC-25,Forced Deadlock,CWE-667,T1499.004,False,shared_CAPEC_pattern
+CAPEC-25,Forced Deadlock,CWE-833,T1499.004,False,shared_CAPEC_pattern
+CAPEC-25,Forced Deadlock,CWE-1322,T1499.004,False,shared_CAPEC_pattern
+CAPEC-251,Local Code Inclusion,CWE-829,T1055,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-20,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-73,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-74,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-172,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-173,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-180,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-181,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-692,T1027,False,shared_CAPEC_pattern
+CAPEC-267,Leverage Alternate Encoding,CWE-697,T1027,False,shared_CAPEC_pattern
+CAPEC-268,Audit Log Manipulation,CWE-117,T1070,True,shared_CAPEC_pattern
+CAPEC-268,Audit Log Manipulation,CWE-117,T1562.002,True,shared_CAPEC_pattern
+CAPEC-268,Audit Log Manipulation,CWE-117,T1562.003,True,shared_CAPEC_pattern
+CAPEC-268,Audit Log Manipulation,CWE-117,T1562.008,True,shared_CAPEC_pattern
+CAPEC-270,Modification of Registry Run Keys,CWE-15,T1547.001,False,shared_CAPEC_pattern
+CAPEC-270,Modification of Registry Run Keys,CWE-15,T1547.014,False,shared_CAPEC_pattern
+CAPEC-292,Host Discovery,CWE-200,T1018,True,shared_CAPEC_pattern
+CAPEC-295,Timestamp Request,CWE-200,T1124,False,shared_CAPEC_pattern
+CAPEC-30,Hijacking a Privileged Thread of Execution,CWE-270,T1055.003,False,shared_CAPEC_pattern
+CAPEC-300,Port Scanning,CWE-200,T1046,False,shared_CAPEC_pattern
+CAPEC-309,Network Topology Mapping,CWE-200,T1016,True,shared_CAPEC_pattern
+CAPEC-309,Network Topology Mapping,CWE-200,T1049,True,shared_CAPEC_pattern
+CAPEC-309,Network Topology Mapping,CWE-200,T1590,True,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-20,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-113,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-302,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-311,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-315,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-384,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-472,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-539,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-565,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-602,T1539,False,shared_CAPEC_pattern
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-642,T1539,False,shared_CAPEC_pattern
+CAPEC-312,Active OS Fingerprinting,CWE-200,T1082,True,shared_CAPEC_pattern
+CAPEC-313,Passive OS Fingerprinting,CWE-200,T1082,True,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-59,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-59,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-59,T1564.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-94,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-94,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-94,T1564.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-95,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-95,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-95,T1564.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-96,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-96,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-96,T1564.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-97,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-97,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-97,T1564.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-270,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-270,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-270,T1564.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-272,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-272,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-272,T1564.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-282,T1027.006,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-282,T1027.009,False,shared_CAPEC_pattern
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-282,T1564.009,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-226,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-226,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-311,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-311,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-312,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-312,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-314,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-314,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-315,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-315,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-318,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-318,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-525,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-525,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1239,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1239,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1258,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1258,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1266,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1266,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1272,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1272,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1278,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1278,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1301,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1301,T1552.004,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1330,T1005,False,shared_CAPEC_pattern
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1330,T1552.004,False,shared_CAPEC_pattern
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,CWE-426,T1574.007,False,shared_CAPEC_pattern
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,CWE-426,T1574.009,False,shared_CAPEC_pattern
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,CWE-427,T1574.007,False,shared_CAPEC_pattern
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,CWE-427,T1574.009,False,shared_CAPEC_pattern
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-311,T1056.004,False,shared_CAPEC_pattern
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-319,T1056.004,False,shared_CAPEC_pattern
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-419,T1056.004,False,shared_CAPEC_pattern
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-602,T1056.004,False,shared_CAPEC_pattern
+CAPEC-439,Manipulation During Distribution,CWE-1269,T1195,True,shared_CAPEC_pattern
+CAPEC-442,Infected Software,CWE-506,T1195.001,False,shared_CAPEC_pattern
+CAPEC-442,Infected Software,CWE-506,T1195.002,False,shared_CAPEC_pattern
+CAPEC-448,Embed Virus into DLL,CWE-506,T1027.009,False,shared_CAPEC_pattern
+CAPEC-457,USB Memory Attacks,CWE-1299,T1091,True,shared_CAPEC_pattern
+CAPEC-457,USB Memory Attacks,CWE-1299,T1092,True,shared_CAPEC_pattern
+CAPEC-464,Evercookie,CWE-359,T1606.001,False,shared_CAPEC_pattern
+CAPEC-465,Transparent Proxy Abuse,CWE-441,T1090.001,False,shared_CAPEC_pattern
+CAPEC-469,HTTP DoS,CWE-770,T1499.002,False,shared_CAPEC_pattern
+CAPEC-469,HTTP DoS,CWE-772,T1499.002,False,shared_CAPEC_pattern
+CAPEC-471,Search Order Hijacking,CWE-427,T1574.001,False,shared_CAPEC_pattern
+CAPEC-471,Search Order Hijacking,CWE-427,T1574.004,False,shared_CAPEC_pattern
+CAPEC-471,Search Order Hijacking,CWE-427,T1574.008,False,shared_CAPEC_pattern
+CAPEC-473,Signature Spoof,CWE-20,T1036.001,True,shared_CAPEC_pattern
+CAPEC-473,Signature Spoof,CWE-20,T1553.002,True,shared_CAPEC_pattern
+CAPEC-473,Signature Spoof,CWE-290,T1036.001,True,shared_CAPEC_pattern
+CAPEC-473,Signature Spoof,CWE-290,T1553.002,True,shared_CAPEC_pattern
+CAPEC-473,Signature Spoof,CWE-327,T1036.001,True,shared_CAPEC_pattern
+CAPEC-473,Signature Spoof,CWE-327,T1553.002,True,shared_CAPEC_pattern
+CAPEC-474,Signature Spoofing by Key Theft,CWE-522,T1552.004,False,shared_CAPEC_pattern
+CAPEC-478,Modification of Windows Service Configuration,CWE-284,T1574.011,False,shared_CAPEC_pattern
+CAPEC-478,Modification of Windows Service Configuration,CWE-284,T1543.003,False,shared_CAPEC_pattern
+CAPEC-479,Malicious Root Certificate,CWE-284,T1553.004,False,shared_CAPEC_pattern
+CAPEC-480,Escaping Virtualization,CWE-693,T1611,False,shared_CAPEC_pattern
+CAPEC-481,Contradictory Destinations in Traffic Routing Schemes,CWE-923,T1090.004,False,shared_CAPEC_pattern
+CAPEC-482,TCP Flood,CWE-770,T1498.001,False,shared_CAPEC_pattern
+CAPEC-482,TCP Flood,CWE-770,T1499.001,False,shared_CAPEC_pattern
+CAPEC-482,TCP Flood,CWE-770,T1499.002,False,shared_CAPEC_pattern
+CAPEC-485,Signature Spoofing by Key Recreation,CWE-330,T1552.004,False,shared_CAPEC_pattern
+CAPEC-488,HTTP Flood,CWE-770,T1499.002,False,shared_CAPEC_pattern
+CAPEC-489,SSL Flood,CWE-770,T1499.002,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-257,T1110.001,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-262,T1110.001,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-263,T1110.001,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-307,T1110.001,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-308,T1110.001,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-309,T1110.001,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-521,T1110.001,False,shared_CAPEC_pattern
+CAPEC-49,Password Brute Forcing,CWE-654,T1110.001,False,shared_CAPEC_pattern
+CAPEC-490,Amplification,CWE-770,T1498.002,False,shared_CAPEC_pattern
+CAPEC-497,File Discovery,CWE-200,T1083,False,shared_CAPEC_pattern
+CAPEC-504,Task Impersonation,CWE-1021,T1036.004,True,shared_CAPEC_pattern
+CAPEC-509,Kerberoasting,CWE-262,T1558.003,False,shared_CAPEC_pattern
+CAPEC-509,Kerberoasting,CWE-263,T1558.003,False,shared_CAPEC_pattern
+CAPEC-509,Kerberoasting,CWE-294,T1558.003,False,shared_CAPEC_pattern
+CAPEC-509,Kerberoasting,CWE-308,T1558.003,False,shared_CAPEC_pattern
+CAPEC-509,Kerberoasting,CWE-309,T1558.003,False,shared_CAPEC_pattern
+CAPEC-509,Kerberoasting,CWE-521,T1558.003,False,shared_CAPEC_pattern
+CAPEC-509,Kerberoasting,CWE-522,T1558.003,False,shared_CAPEC_pattern
+CAPEC-528,XML Flood,CWE-770,T1499.002,False,shared_CAPEC_pattern
+CAPEC-528,XML Flood,CWE-770,T1498.001,False,shared_CAPEC_pattern
+CAPEC-538,Open-Source Library Manipulation,CWE-494,T1195.001,False,shared_CAPEC_pattern
+CAPEC-538,Open-Source Library Manipulation,CWE-829,T1195.001,False,shared_CAPEC_pattern
+CAPEC-541,Application Fingerprinting,CWE-204,T1592.002,False,shared_CAPEC_pattern
+CAPEC-541,Application Fingerprinting,CWE-205,T1592.002,False,shared_CAPEC_pattern
+CAPEC-541,Application Fingerprinting,CWE-208,T1592.002,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1239,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1239,T1555.001,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1243,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1243,T1555.001,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1258,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1258,T1555.001,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1266,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1266,T1555.001,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1272,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1272,T1555.001,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1278,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1278,T1555.001,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1323,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1323,T1555.001,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1330,T1005,False,shared_CAPEC_pattern
+CAPEC-545,Pull Data from System Resources,CWE-1330,T1555.001,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-261,T1110.002,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-262,T1110.002,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-263,T1110.002,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-308,T1110.002,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-309,T1110.002,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-521,T1110.002,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-654,T1110.002,False,shared_CAPEC_pattern
+CAPEC-55,Rainbow Table Password Cracking,CWE-916,T1110.002,False,shared_CAPEC_pattern
+CAPEC-550,Install New Service,CWE-284,T1543,False,shared_CAPEC_pattern
+CAPEC-551,Modify Existing Service,CWE-284,T1543,False,shared_CAPEC_pattern
+CAPEC-551,Modify Existing Service,CWE-522,T1543,False,shared_CAPEC_pattern
+CAPEC-552,Install Rootkit,CWE-284,T1014,True,shared_CAPEC_pattern
+CAPEC-552,Install Rootkit,CWE-284,T1542.003,True,shared_CAPEC_pattern
+CAPEC-552,Install Rootkit,CWE-284,T1547.006,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-262,T1021,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-262,T1114.002,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-262,T1133,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-263,T1021,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-263,T1114.002,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-263,T1133,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-294,T1021,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-294,T1114.002,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-294,T1133,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-308,T1021,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-308,T1114.002,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-308,T1133,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-309,T1021,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-309,T1114.002,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-309,T1133,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-521,T1021,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-521,T1114.002,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-521,T1133,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-522,T1021,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-522,T1114.002,True,shared_CAPEC_pattern
+CAPEC-555,Remote Services with Stolen Credentials,CWE-522,T1133,True,shared_CAPEC_pattern
+CAPEC-556,Replace File Extension Handlers,CWE-284,T1546.001,False,shared_CAPEC_pattern
+CAPEC-558,Replace Trusted Executable,CWE-284,T1505.005,False,shared_CAPEC_pattern
+CAPEC-558,Replace Trusted Executable,CWE-284,T1546.008,False,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-262,T1078,True,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-263,T1078,True,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-307,T1078,True,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-308,T1078,True,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-309,T1078,True,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-522,T1078,True,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-654,T1078,True,shared_CAPEC_pattern
+CAPEC-560,Use of Known Domain Credentials,CWE-1273,T1078,True,shared_CAPEC_pattern
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-262,T1021.002,False,shared_CAPEC_pattern
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-263,T1021.002,False,shared_CAPEC_pattern
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-294,T1021.002,False,shared_CAPEC_pattern
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-308,T1021.002,False,shared_CAPEC_pattern
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-309,T1021.002,False,shared_CAPEC_pattern
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-521,T1021.002,False,shared_CAPEC_pattern
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-522,T1021.002,False,shared_CAPEC_pattern
+CAPEC-562,Modify Shared File,CWE-284,T1080,False,shared_CAPEC_pattern
+CAPEC-564,Run Software at Logon,CWE-284,T1037,False,shared_CAPEC_pattern
+CAPEC-564,Run Software at Logon,CWE-284,T1543.001,False,shared_CAPEC_pattern
+CAPEC-564,Run Software at Logon,CWE-284,T1543.004,False,shared_CAPEC_pattern
+CAPEC-564,Run Software at Logon,CWE-284,T1547,False,shared_CAPEC_pattern
+CAPEC-565,Password Spraying,CWE-262,T1110.003,False,shared_CAPEC_pattern
+CAPEC-565,Password Spraying,CWE-263,T1110.003,False,shared_CAPEC_pattern
+CAPEC-565,Password Spraying,CWE-307,T1110.003,False,shared_CAPEC_pattern
+CAPEC-565,Password Spraying,CWE-308,T1110.003,False,shared_CAPEC_pattern
+CAPEC-565,Password Spraying,CWE-309,T1110.003,False,shared_CAPEC_pattern
+CAPEC-565,Password Spraying,CWE-521,T1110.003,False,shared_CAPEC_pattern
+CAPEC-565,Password Spraying,CWE-654,T1110.003,False,shared_CAPEC_pattern
+CAPEC-57,Utilizing REST's Trust in the System Resource to Obtain Sensitive Data,CWE-287,T1040,True,shared_CAPEC_pattern
+CAPEC-57,Utilizing REST's Trust in the System Resource to Obtain Sensitive Data,CWE-300,T1040,True,shared_CAPEC_pattern
+CAPEC-57,Utilizing REST's Trust in the System Resource to Obtain Sensitive Data,CWE-693,T1040,True,shared_CAPEC_pattern
+CAPEC-573,Process Footprinting,CWE-200,T1057,True,shared_CAPEC_pattern
+CAPEC-574,Services Footprinting,CWE-200,T1007,False,shared_CAPEC_pattern
+CAPEC-575,Account Footprinting,CWE-200,T1087,False,shared_CAPEC_pattern
+CAPEC-576,Group Permission Footprinting,CWE-200,T1069,False,shared_CAPEC_pattern
+CAPEC-576,Group Permission Footprinting,CWE-200,T1615,False,shared_CAPEC_pattern
+CAPEC-577,Owner Footprinting,CWE-200,T1033,False,shared_CAPEC_pattern
+CAPEC-578,Disable Security Software,CWE-284,T1556.006,False,shared_CAPEC_pattern
+CAPEC-578,Disable Security Software,CWE-284,T1562.001,False,shared_CAPEC_pattern
+CAPEC-578,Disable Security Software,CWE-284,T1562.002,False,shared_CAPEC_pattern
+CAPEC-578,Disable Security Software,CWE-284,T1562.004,False,shared_CAPEC_pattern
+CAPEC-578,Disable Security Software,CWE-284,T1562.007,False,shared_CAPEC_pattern
+CAPEC-578,Disable Security Software,CWE-284,T1562.008,False,shared_CAPEC_pattern
+CAPEC-578,Disable Security Software,CWE-284,T1562.009,False,shared_CAPEC_pattern
+CAPEC-579,Replace Winlogon Helper DLL,CWE-15,T1547.004,False,shared_CAPEC_pattern
+CAPEC-580,System Footprinting,CWE-204,T1082,True,shared_CAPEC_pattern
+CAPEC-580,System Footprinting,CWE-205,T1082,True,shared_CAPEC_pattern
+CAPEC-580,System Footprinting,CWE-208,T1082,True,shared_CAPEC_pattern
+CAPEC-593,Session Hijacking,CWE-287,T1185,False,shared_CAPEC_pattern
+CAPEC-593,Session Hijacking,CWE-287,T1550.001,False,shared_CAPEC_pattern
+CAPEC-593,Session Hijacking,CWE-287,T1563,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-200,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-200,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-285,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-285,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-290,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-290,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-294,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-294,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-346,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-346,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-384,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-384,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-488,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-488,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-539,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-539,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-664,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-664,T1550.004,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-732,T1134.001,False,shared_CAPEC_pattern
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-732,T1550.004,False,shared_CAPEC_pattern
+CAPEC-600,Credential Stuffing,CWE-262,T1110.004,False,shared_CAPEC_pattern
+CAPEC-600,Credential Stuffing,CWE-263,T1110.004,False,shared_CAPEC_pattern
+CAPEC-600,Credential Stuffing,CWE-307,T1110.004,False,shared_CAPEC_pattern
+CAPEC-600,Credential Stuffing,CWE-308,T1110.004,False,shared_CAPEC_pattern
+CAPEC-600,Credential Stuffing,CWE-309,T1110.004,False,shared_CAPEC_pattern
+CAPEC-600,Credential Stuffing,CWE-522,T1110.004,False,shared_CAPEC_pattern
+CAPEC-600,Credential Stuffing,CWE-654,T1110.004,False,shared_CAPEC_pattern
+CAPEC-609,Cellular Traffic Intercept,CWE-311,T1111,False,shared_CAPEC_pattern
+CAPEC-616,Establish Rogue Location,CWE-200,T1036.005,False,shared_CAPEC_pattern
+CAPEC-620,Drop Encryption Level,CWE-757,T1600,False,shared_CAPEC_pattern
+CAPEC-633,Token Impersonation,CWE-287,T1134,False,shared_CAPEC_pattern
+CAPEC-633,Token Impersonation,CWE-1270,T1134,False,shared_CAPEC_pattern
+CAPEC-634,Probe Audio and Video Peripherals,CWE-267,T1123,False,shared_CAPEC_pattern
+CAPEC-634,Probe Audio and Video Peripherals,CWE-267,T1125,False,shared_CAPEC_pattern
+CAPEC-635,Alternative Execution Due to Deceptive Filenames,CWE-162,T1036.007,True,shared_CAPEC_pattern
+CAPEC-636,Hiding Malicious Data or Code within Files,CWE-506,T1001.002,False,shared_CAPEC_pattern
+CAPEC-636,Hiding Malicious Data or Code within Files,CWE-506,T1027.003,False,shared_CAPEC_pattern
+CAPEC-636,Hiding Malicious Data or Code within Files,CWE-506,T1027.004,False,shared_CAPEC_pattern
+CAPEC-636,Hiding Malicious Data or Code within Files,CWE-506,T1218.001,False,shared_CAPEC_pattern
+CAPEC-636,Hiding Malicious Data or Code within Files,CWE-506,T1221,False,shared_CAPEC_pattern
+CAPEC-637,Collect Data from Clipboard,CWE-267,T1115,False,shared_CAPEC_pattern
+CAPEC-639,Probe System Files,CWE-552,T1039,False,shared_CAPEC_pattern
+CAPEC-639,Probe System Files,CWE-552,T1552.001,False,shared_CAPEC_pattern
+CAPEC-639,Probe System Files,CWE-552,T1552.003,False,shared_CAPEC_pattern
+CAPEC-639,Probe System Files,CWE-552,T1552.004,False,shared_CAPEC_pattern
+CAPEC-639,Probe System Files,CWE-552,T1552.006,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-114,T1505.005,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-114,T1574.006,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-114,T1574.013,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-114,T1620,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-829,T1505.005,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-829,T1574.006,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-829,T1574.013,False,shared_CAPEC_pattern
+CAPEC-640,Inclusion of Code in Existing Process,CWE-829,T1620,False,shared_CAPEC_pattern
+CAPEC-641,DLL Side-Loading,CWE-706,T1574.002,False,shared_CAPEC_pattern
+CAPEC-642,Replace Binaries,CWE-732,T1505.005,False,shared_CAPEC_pattern
+CAPEC-642,Replace Binaries,CWE-732,T1554,False,shared_CAPEC_pattern
+CAPEC-642,Replace Binaries,CWE-732,T1574.005,False,shared_CAPEC_pattern
+CAPEC-643,Identify Shared Files/Directories on System,CWE-200,T1135,False,shared_CAPEC_pattern
+CAPEC-643,Identify Shared Files/Directories on System,CWE-267,T1135,False,shared_CAPEC_pattern
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-294,T1550.002,False,shared_CAPEC_pattern
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-308,T1550.002,False,shared_CAPEC_pattern
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-522,T1550.002,False,shared_CAPEC_pattern
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-836,T1550.002,False,shared_CAPEC_pattern
+CAPEC-645,Use of Captured Tickets (Pass The Ticket),CWE-294,T1550.003,False,shared_CAPEC_pattern
+CAPEC-645,Use of Captured Tickets (Pass The Ticket),CWE-308,T1550.003,False,shared_CAPEC_pattern
+CAPEC-645,Use of Captured Tickets (Pass The Ticket),CWE-522,T1550.003,False,shared_CAPEC_pattern
+CAPEC-646,Peripheral Footprinting,CWE-200,T1120,False,shared_CAPEC_pattern
+CAPEC-647,Collect Data from Registries,CWE-285,T1005,False,shared_CAPEC_pattern
+CAPEC-647,Collect Data from Registries,CWE-285,T1012,False,shared_CAPEC_pattern
+CAPEC-647,Collect Data from Registries,CWE-285,T1552.002,False,shared_CAPEC_pattern
+CAPEC-648,Collect Data from Screen Capture,CWE-267,T1113,True,shared_CAPEC_pattern
+CAPEC-648,Collect Data from Screen Capture,CWE-267,T1513,True,shared_CAPEC_pattern
+CAPEC-649,Adding a Space to a File Extension,CWE-46,T1036.006,True,shared_CAPEC_pattern
+CAPEC-65,Sniff Application Code,CWE-311,T1040,True,shared_CAPEC_pattern
+CAPEC-65,Sniff Application Code,CWE-318,T1040,True,shared_CAPEC_pattern
+CAPEC-65,Sniff Application Code,CWE-319,T1040,True,shared_CAPEC_pattern
+CAPEC-65,Sniff Application Code,CWE-693,T1040,True,shared_CAPEC_pattern
+CAPEC-650,Upload a Web Shell to a Web Server,CWE-287,T1505.003,False,shared_CAPEC_pattern
+CAPEC-650,Upload a Web Shell to a Web Server,CWE-553,T1505.003,False,shared_CAPEC_pattern
+CAPEC-651,Eavesdropping,CWE-200,T1111,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-262,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-263,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-294,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-307,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-308,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-309,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-522,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-654,T1558,False,shared_CAPEC_pattern
+CAPEC-652,Use of Known Kerberos Credentials,CWE-836,T1558,False,shared_CAPEC_pattern
+CAPEC-654,Credential Prompt Impersonation,CWE-1021,T1056,False,shared_CAPEC_pattern
+CAPEC-654,Credential Prompt Impersonation,CWE-1021,T1548.004,False,shared_CAPEC_pattern
+CAPEC-657,Malicious Automated Software Update via Spoofing,CWE-494,T1072,False,shared_CAPEC_pattern
+CAPEC-660,Root/Jailbreak Detection Evasion via Hooking,CWE-829,T1055,False,shared_CAPEC_pattern
+CAPEC-662,Adversary in the Browser (AiTB),CWE-300,T1185,False,shared_CAPEC_pattern
+CAPEC-662,Adversary in the Browser (AiTB),CWE-494,T1185,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-288,T1211,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-288,T1542.002,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-288,T1556,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-345,T1211,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-345,T1542.002,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-345,T1556,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-353,T1211,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-353,T1542.002,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-353,T1556,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-862,T1211,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-862,T1542.002,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-862,T1556,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-1188,T1211,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-1188,T1542.002,False,shared_CAPEC_pattern
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-1188,T1556,False,shared_CAPEC_pattern
+CAPEC-666,BlueSmacking,CWE-404,T1498.001,False,shared_CAPEC_pattern
+CAPEC-666,BlueSmacking,CWE-404,T1499.001,False,shared_CAPEC_pattern
+CAPEC-668,Key Negotiation of Bluetooth Attack (KNOB),CWE-285,T1565.002,False,shared_CAPEC_pattern
+CAPEC-668,Key Negotiation of Bluetooth Attack (KNOB),CWE-425,T1565.002,False,shared_CAPEC_pattern
+CAPEC-668,Key Negotiation of Bluetooth Attack (KNOB),CWE-693,T1565.002,False,shared_CAPEC_pattern
+CAPEC-675,Retrieve Data from Decommissioned Devices,CWE-1266,T1052,False,shared_CAPEC_pattern
+CAPEC-68,Subvert Code-signing Facilities,CWE-325,T1553.002,False,shared_CAPEC_pattern
+CAPEC-68,Subvert Code-signing Facilities,CWE-328,T1553.002,False,shared_CAPEC_pattern
+CAPEC-68,Subvert Code-signing Facilities,CWE-1326,T1553.002,False,shared_CAPEC_pattern
+CAPEC-691,Spoof Open-Source Software Metadata,CWE-494,T1195.001,True,shared_CAPEC_pattern
+CAPEC-691,Spoof Open-Source Software Metadata,CWE-494,T1195.002,True,shared_CAPEC_pattern
+CAPEC-694,System Location Discovery,CWE-497,T1614,False,shared_CAPEC_pattern
+CAPEC-695,Repo Jacking,CWE-494,T1195.001,False,shared_CAPEC_pattern
+CAPEC-695,Repo Jacking,CWE-829,T1195.001,False,shared_CAPEC_pattern
+CAPEC-697,DHCP Spoofing,CWE-923,T1557.003,False,shared_CAPEC_pattern
+CAPEC-698,Install Malicious Extension,CWE-507,T1176,False,shared_CAPEC_pattern
+CAPEC-698,Install Malicious Extension,CWE-507,T1505.004,False,shared_CAPEC_pattern
+CAPEC-698,Install Malicious Extension,CWE-829,T1176,False,shared_CAPEC_pattern
+CAPEC-698,Install Malicious Extension,CWE-829,T1505.004,False,shared_CAPEC_pattern
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-262,T1078.001,True,shared_CAPEC_pattern
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-263,T1078.001,True,shared_CAPEC_pattern
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-308,T1078.001,True,shared_CAPEC_pattern
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-309,T1078.001,True,shared_CAPEC_pattern
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-521,T1078.001,True,shared_CAPEC_pattern
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-654,T1078.001,True,shared_CAPEC_pattern
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-798,T1078.001,True,shared_CAPEC_pattern
+CAPEC-94,Adversary in the Middle (AiTM),CWE-287,T1557,True,shared_CAPEC_pattern
+CAPEC-94,Adversary in the Middle (AiTM),CWE-290,T1557,True,shared_CAPEC_pattern
+CAPEC-94,Adversary in the Middle (AiTM),CWE-294,T1557,True,shared_CAPEC_pattern
+CAPEC-94,Adversary in the Middle (AiTM),CWE-300,T1557,True,shared_CAPEC_pattern
+CAPEC-94,Adversary in the Middle (AiTM),CWE-593,T1557,True,shared_CAPEC_pattern
+CAPEC-98,Phishing,CWE-451,T1566,True,shared_CAPEC_pattern
+CAPEC-98,Phishing,CWE-451,T1598,True,shared_CAPEC_pattern

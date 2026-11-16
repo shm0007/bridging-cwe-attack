@@ -1,0 +1,1213 @@
+capec_id,capec_name,cwe_id,is_ics
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-276,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-285,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-434,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-693,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-732,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1191,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1193,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1220,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1297,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1311,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1314,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1315,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1318,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1320,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1321,True
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,CWE-1327,True
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-20,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-74,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-99,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-118,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-119,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-120,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-302,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-680,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-697,False
+CAPEC-10,Buffer Overflow via Environment Variables,CWE-733,False
+CAPEC-100,Overflow Buffers,CWE-119,False
+CAPEC-100,Overflow Buffers,CWE-120,False
+CAPEC-100,Overflow Buffers,CWE-129,False
+CAPEC-100,Overflow Buffers,CWE-131,False
+CAPEC-100,Overflow Buffers,CWE-680,False
+CAPEC-100,Overflow Buffers,CWE-805,False
+CAPEC-101,Server Side Include (SSI) Injection,CWE-20,False
+CAPEC-101,Server Side Include (SSI) Injection,CWE-74,False
+CAPEC-101,Server Side Include (SSI) Injection,CWE-97,False
+CAPEC-102,Session Sidejacking,CWE-294,False
+CAPEC-102,Session Sidejacking,CWE-319,False
+CAPEC-102,Session Sidejacking,CWE-522,False
+CAPEC-102,Session Sidejacking,CWE-523,False
+CAPEC-102,Session Sidejacking,CWE-614,False
+CAPEC-103,Clickjacking,CWE-1021,False
+CAPEC-104,Cross Zone Scripting,CWE-20,False
+CAPEC-104,Cross Zone Scripting,CWE-116,False
+CAPEC-104,Cross Zone Scripting,CWE-250,False
+CAPEC-104,Cross Zone Scripting,CWE-285,False
+CAPEC-104,Cross Zone Scripting,CWE-638,False
+CAPEC-105,HTTP Request Splitting,CWE-74,False
+CAPEC-105,HTTP Request Splitting,CWE-113,False
+CAPEC-105,HTTP Request Splitting,CWE-138,False
+CAPEC-105,HTTP Request Splitting,CWE-436,False
+CAPEC-107,Cross Site Tracing,CWE-648,False
+CAPEC-107,Cross Site Tracing,CWE-693,False
+CAPEC-108,Command Line Execution through SQL Injection,CWE-20,False
+CAPEC-108,Command Line Execution through SQL Injection,CWE-74,False
+CAPEC-108,Command Line Execution through SQL Injection,CWE-78,False
+CAPEC-108,Command Line Execution through SQL Injection,CWE-89,False
+CAPEC-108,Command Line Execution through SQL Injection,CWE-114,False
+CAPEC-109,Object Relational Mapping Injection,CWE-20,False
+CAPEC-109,Object Relational Mapping Injection,CWE-89,False
+CAPEC-109,Object Relational Mapping Injection,CWE-564,False
+CAPEC-11,Cause Web Server Misclassification,CWE-430,False
+CAPEC-110,SQL Injection through SOAP Parameter Tampering,CWE-20,False
+CAPEC-110,SQL Injection through SOAP Parameter Tampering,CWE-89,False
+CAPEC-111,JSON Hijacking (aka JavaScript Hijacking),CWE-345,False
+CAPEC-111,JSON Hijacking (aka JavaScript Hijacking),CWE-346,False
+CAPEC-111,JSON Hijacking (aka JavaScript Hijacking),CWE-352,False
+CAPEC-112,Brute Force,CWE-326,False
+CAPEC-112,Brute Force,CWE-330,False
+CAPEC-112,Brute Force,CWE-521,False
+CAPEC-113,Interface Manipulation,CWE-1192,False
+CAPEC-114,Authentication Abuse,CWE-287,False
+CAPEC-114,Authentication Abuse,CWE-1244,False
+CAPEC-115,Authentication Bypass,CWE-287,False
+CAPEC-116,Excavation,CWE-200,False
+CAPEC-116,Excavation,CWE-1243,False
+CAPEC-117,Interception,CWE-319,False
+CAPEC-12,Choosing Message Identifier,CWE-201,False
+CAPEC-12,Choosing Message Identifier,CWE-306,False
+CAPEC-120,Double Encoding,CWE-20,False
+CAPEC-120,Double Encoding,CWE-74,False
+CAPEC-120,Double Encoding,CWE-172,False
+CAPEC-120,Double Encoding,CWE-173,False
+CAPEC-120,Double Encoding,CWE-177,False
+CAPEC-120,Double Encoding,CWE-181,False
+CAPEC-120,Double Encoding,CWE-183,False
+CAPEC-120,Double Encoding,CWE-184,False
+CAPEC-120,Double Encoding,CWE-692,False
+CAPEC-120,Double Encoding,CWE-697,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-489,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1209,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1259,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1267,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1270,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1294,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1295,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1296,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1302,False
+CAPEC-121,Exploit Non-Production Interfaces,CWE-1313,False
+CAPEC-122,Privilege Abuse,CWE-269,False
+CAPEC-122,Privilege Abuse,CWE-732,False
+CAPEC-122,Privilege Abuse,CWE-1317,False
+CAPEC-123,Buffer Manipulation,CWE-119,False
+CAPEC-124,Shared Resource Manipulation,CWE-1189,False
+CAPEC-124,Shared Resource Manipulation,CWE-1331,False
+CAPEC-125,Flooding,CWE-404,True
+CAPEC-125,Flooding,CWE-770,True
+CAPEC-126,Path Traversal,CWE-22,False
+CAPEC-127,Directory Indexing,CWE-276,False
+CAPEC-127,Directory Indexing,CWE-285,False
+CAPEC-127,Directory Indexing,CWE-288,False
+CAPEC-127,Directory Indexing,CWE-424,False
+CAPEC-127,Directory Indexing,CWE-425,False
+CAPEC-127,Directory Indexing,CWE-693,False
+CAPEC-127,Directory Indexing,CWE-732,False
+CAPEC-128,Integer Attacks,CWE-682,False
+CAPEC-129,Pointer Manipulation,CWE-682,False
+CAPEC-129,Pointer Manipulation,CWE-822,False
+CAPEC-129,Pointer Manipulation,CWE-823,False
+CAPEC-13,Subverting Environment Variable Values,CWE-15,False
+CAPEC-13,Subverting Environment Variable Values,CWE-20,False
+CAPEC-13,Subverting Environment Variable Values,CWE-73,False
+CAPEC-13,Subverting Environment Variable Values,CWE-74,False
+CAPEC-13,Subverting Environment Variable Values,CWE-200,False
+CAPEC-13,Subverting Environment Variable Values,CWE-285,False
+CAPEC-13,Subverting Environment Variable Values,CWE-302,False
+CAPEC-13,Subverting Environment Variable Values,CWE-353,False
+CAPEC-130,Excessive Allocation,CWE-404,True
+CAPEC-130,Excessive Allocation,CWE-770,True
+CAPEC-130,Excessive Allocation,CWE-1325,True
+CAPEC-131,Resource Leak Exposure,CWE-404,True
+CAPEC-132,Symlink Attack,CWE-59,False
+CAPEC-133,Try All Common Switches,CWE-912,False
+CAPEC-134,Email Injection,CWE-150,False
+CAPEC-135,Format String Injection,CWE-20,False
+CAPEC-135,Format String Injection,CWE-74,False
+CAPEC-135,Format String Injection,CWE-134,False
+CAPEC-136,LDAP Injection,CWE-20,False
+CAPEC-136,LDAP Injection,CWE-77,False
+CAPEC-136,LDAP Injection,CWE-90,False
+CAPEC-137,Parameter Injection,CWE-88,False
+CAPEC-138,Reflection Injection,CWE-470,False
+CAPEC-139,Relative Path Traversal,CWE-23,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-20,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-74,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-118,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-119,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-120,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-353,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-680,False
+CAPEC-14,Client-side Injection-induced Buffer Overflow,CWE-697,False
+CAPEC-140,Bypassing of Intermediate Forms in Multiple-Form Sets,CWE-372,False
+CAPEC-141,Cache Poisoning,CWE-345,True
+CAPEC-141,Cache Poisoning,CWE-346,True
+CAPEC-141,Cache Poisoning,CWE-348,True
+CAPEC-141,Cache Poisoning,CWE-349,True
+CAPEC-142,DNS Cache Poisoning,CWE-345,False
+CAPEC-142,DNS Cache Poisoning,CWE-346,False
+CAPEC-142,DNS Cache Poisoning,CWE-348,False
+CAPEC-142,DNS Cache Poisoning,CWE-349,False
+CAPEC-142,DNS Cache Poisoning,CWE-350,False
+CAPEC-143,Detect Unpublicized Web Pages,CWE-425,False
+CAPEC-144,Detect Unpublicized Web Services,CWE-425,False
+CAPEC-145,Checksum Spoofing,CWE-354,False
+CAPEC-146,XML Schema Poisoning,CWE-15,False
+CAPEC-146,XML Schema Poisoning,CWE-472,False
+CAPEC-147,XML Ping of the Death,CWE-400,False
+CAPEC-147,XML Ping of the Death,CWE-770,False
+CAPEC-148,Content Spoofing,CWE-345,True
+CAPEC-149,Explore for Predictable Temporary File Names,CWE-377,False
+CAPEC-15,Command Delimiters,CWE-77,False
+CAPEC-15,Command Delimiters,CWE-78,False
+CAPEC-15,Command Delimiters,CWE-93,False
+CAPEC-15,Command Delimiters,CWE-138,False
+CAPEC-15,Command Delimiters,CWE-140,False
+CAPEC-15,Command Delimiters,CWE-146,False
+CAPEC-15,Command Delimiters,CWE-154,False
+CAPEC-15,Command Delimiters,CWE-157,False
+CAPEC-15,Command Delimiters,CWE-184,False
+CAPEC-15,Command Delimiters,CWE-185,False
+CAPEC-15,Command Delimiters,CWE-697,False
+CAPEC-150,Collect Data from Common Resource Locations,CWE-552,False
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1239,False
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1258,False
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1266,False
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1272,False
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1323,False
+CAPEC-150,Collect Data from Common Resource Locations,CWE-1330,False
+CAPEC-151,Identity Spoofing,CWE-287,False
+CAPEC-153,Input Data Manipulation,CWE-20,False
+CAPEC-154,Resource Location Spoofing,CWE-451,False
+CAPEC-155,Screen Temporary Files for Sensitive Information,CWE-377,False
+CAPEC-157,Sniffing Attacks,CWE-311,False
+CAPEC-158,Sniffing Network Traffic,CWE-311,True
+CAPEC-159,Redirect Access to Libraries,CWE-706,False
+CAPEC-16,Dictionary-based Password Attack,CWE-262,False
+CAPEC-16,Dictionary-based Password Attack,CWE-263,False
+CAPEC-16,Dictionary-based Password Attack,CWE-307,False
+CAPEC-16,Dictionary-based Password Attack,CWE-308,False
+CAPEC-16,Dictionary-based Password Attack,CWE-309,False
+CAPEC-16,Dictionary-based Password Attack,CWE-521,False
+CAPEC-16,Dictionary-based Password Attack,CWE-654,False
+CAPEC-160,Exploit Script-Based APIs,CWE-346,False
+CAPEC-161,Infrastructure Manipulation,CWE-923,False
+CAPEC-162,Manipulating Hidden Fields,CWE-602,False
+CAPEC-163,Spear Phishing,CWE-451,True
+CAPEC-164,Mobile Phishing,CWE-451,False
+CAPEC-166,Force the System to Reset Values,CWE-306,False
+CAPEC-166,Force the System to Reset Values,CWE-1221,False
+CAPEC-166,Force the System to Reset Values,CWE-1232,False
+CAPEC-167,White Box Reverse Engineering,CWE-1323,False
+CAPEC-168,Windows ::DATA Alternate Data Stream,CWE-69,False
+CAPEC-168,Windows ::DATA Alternate Data Stream,CWE-212,False
+CAPEC-169,Footprinting,CWE-200,True
+CAPEC-17,Using Malicious Files,CWE-59,False
+CAPEC-17,Using Malicious Files,CWE-270,False
+CAPEC-17,Using Malicious Files,CWE-272,False
+CAPEC-17,Using Malicious Files,CWE-282,False
+CAPEC-17,Using Malicious Files,CWE-285,False
+CAPEC-17,Using Malicious Files,CWE-693,False
+CAPEC-17,Using Malicious Files,CWE-732,False
+CAPEC-170,Web Application Fingerprinting,CWE-497,False
+CAPEC-173,Action Spoofing,CWE-451,False
+CAPEC-174,Flash Parameter Injection,CWE-88,False
+CAPEC-175,Code Inclusion,CWE-829,False
+CAPEC-176,Configuration/Environment Manipulation,CWE-15,False
+CAPEC-176,Configuration/Environment Manipulation,CWE-1233,False
+CAPEC-176,Configuration/Environment Manipulation,CWE-1234,False
+CAPEC-176,Configuration/Environment Manipulation,CWE-1304,False
+CAPEC-176,Configuration/Environment Manipulation,CWE-1328,False
+CAPEC-177,Create files with the same name as files protected with a higher classification,CWE-706,True
+CAPEC-178,Cross-Site Flashing,CWE-601,False
+CAPEC-18,XSS Targeting Non-Script Elements,CWE-80,False
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-732,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1190,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1191,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1193,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1220,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1268,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1280,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1297,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1311,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1315,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1318,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1320,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,CWE-1321,True
+CAPEC-181,Flash File Overlay,CWE-1021,False
+CAPEC-182,Flash Injection,CWE-20,False
+CAPEC-182,Flash Injection,CWE-184,False
+CAPEC-182,Flash Injection,CWE-697,False
+CAPEC-183,IMAP/SMTP Command Injection,CWE-77,False
+CAPEC-184,Software Integrity Attack,CWE-494,True
+CAPEC-185,Malicious Software Download,CWE-494,False
+CAPEC-186,Malicious Software Update,CWE-494,False
+CAPEC-187,Malicious Automated Software Update via Redirection,CWE-494,False
+CAPEC-188,Reverse Engineering,CWE-1278,False
+CAPEC-189,Black Box Reverse Engineering,CWE-203,False
+CAPEC-189,Black Box Reverse Engineering,CWE-1255,False
+CAPEC-189,Black Box Reverse Engineering,CWE-1300,False
+CAPEC-19,Embedding Scripts within Scripts,CWE-284,False
+CAPEC-190,Reverse Engineer an Executable to Expose Assumed Hidden Functionality,CWE-912,False
+CAPEC-191,Read Sensitive Constants Within an Executable,CWE-798,True
+CAPEC-192,Protocol Analysis,CWE-326,False
+CAPEC-193,PHP Remote File Inclusion,CWE-80,False
+CAPEC-193,PHP Remote File Inclusion,CWE-98,False
+CAPEC-194,Fake the Source of Data,CWE-287,False
+CAPEC-196,Session Credential Falsification through Forging,CWE-384,False
+CAPEC-196,Session Credential Falsification through Forging,CWE-664,False
+CAPEC-197,Exponential Data Expansion,CWE-770,False
+CAPEC-197,Exponential Data Expansion,CWE-776,False
+CAPEC-198,XSS Targeting Error Pages,CWE-81,False
+CAPEC-199,XSS Using Alternate Syntax,CWE-87,False
+CAPEC-2,Inducing Account Lockout,CWE-645,False
+CAPEC-20,Encryption Brute Forcing,CWE-326,False
+CAPEC-20,Encryption Brute Forcing,CWE-327,False
+CAPEC-20,Encryption Brute Forcing,CWE-693,False
+CAPEC-20,Encryption Brute Forcing,CWE-1204,False
+CAPEC-201,Serialized Data External Linking,CWE-829,False
+CAPEC-202,Create Malicious Client,CWE-602,False
+CAPEC-203,Manipulate Registry Information,CWE-15,False
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-311,False
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-524,False
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-1239,False
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,CWE-1258,False
+CAPEC-206,Signing Malicious Code,CWE-732,False
+CAPEC-207,Removing Important Client Functionality,CWE-602,False
+CAPEC-208,Removing/short-circuiting 'Purse' logic: removing/mutating 'cash' decrements,CWE-602,False
+CAPEC-209,XSS Using MIME Type Mismatch,CWE-20,False
+CAPEC-209,XSS Using MIME Type Mismatch,CWE-79,False
+CAPEC-209,XSS Using MIME Type Mismatch,CWE-646,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-6,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-290,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-302,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-346,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-384,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-539,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-602,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-642,False
+CAPEC-21,Exploitation of Trusted Identifiers,CWE-664,False
+CAPEC-212,Functionality Misuse,CWE-1242,False
+CAPEC-212,Functionality Misuse,CWE-1246,False
+CAPEC-212,Functionality Misuse,CWE-1281,False
+CAPEC-215,Fuzzing for application mapping,CWE-209,False
+CAPEC-215,Fuzzing for application mapping,CWE-532,False
+CAPEC-216,Communication Channel Manipulation,CWE-306,False
+CAPEC-217,Exploiting Incorrectly Configured SSL/TLS,CWE-201,False
+CAPEC-218,Spoofing of UDDI/ebXML Messages,CWE-345,False
+CAPEC-219,XML Routing Detour Attacks,CWE-441,False
+CAPEC-219,XML Routing Detour Attacks,CWE-610,False
+CAPEC-22,Exploiting Trust in Client,CWE-20,False
+CAPEC-22,Exploiting Trust in Client,CWE-200,False
+CAPEC-22,Exploiting Trust in Client,CWE-287,False
+CAPEC-22,Exploiting Trust in Client,CWE-290,False
+CAPEC-22,Exploiting Trust in Client,CWE-693,False
+CAPEC-220,Client-Server Protocol Manipulation,CWE-757,False
+CAPEC-221,Data Serialization External Entities Blowup,CWE-611,False
+CAPEC-222,iFrame Overlay,CWE-1021,False
+CAPEC-224,Fingerprinting,CWE-200,False
+CAPEC-226,Session Credential Falsification through Manipulation,CWE-472,False
+CAPEC-226,Session Credential Falsification through Manipulation,CWE-565,False
+CAPEC-227,Sustained Client Engagement,CWE-400,True
+CAPEC-228,DTD Injection,CWE-829,False
+CAPEC-229,Serialized Data Parameter Blowup,CWE-770,False
+CAPEC-23,File Content Injection,CWE-20,False
+CAPEC-230,Serialized Data with Nested Payloads,CWE-20,False
+CAPEC-230,Serialized Data with Nested Payloads,CWE-112,False
+CAPEC-230,Serialized Data with Nested Payloads,CWE-674,False
+CAPEC-230,Serialized Data with Nested Payloads,CWE-770,False
+CAPEC-231,Oversized Serialized Data Payloads,CWE-20,False
+CAPEC-231,Oversized Serialized Data Payloads,CWE-112,False
+CAPEC-231,Oversized Serialized Data Payloads,CWE-674,False
+CAPEC-231,Oversized Serialized Data Payloads,CWE-770,False
+CAPEC-233,Privilege Escalation,CWE-269,False
+CAPEC-233,Privilege Escalation,CWE-1264,False
+CAPEC-233,Privilege Escalation,CWE-1311,False
+CAPEC-234,Hijacking a privileged process,CWE-648,False
+CAPEC-234,Hijacking a privileged process,CWE-732,False
+CAPEC-237,Escaping a Sandbox by Calling Code in Another Language,CWE-693,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-20,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-74,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-118,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-119,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-120,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-680,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-697,False
+CAPEC-24,Filter Failure through Buffer Overflow,CWE-733,False
+CAPEC-240,Resource Injection,CWE-99,False
+CAPEC-242,Code Injection,CWE-94,False
+CAPEC-243,XSS Targeting HTML Attributes,CWE-83,False
+CAPEC-244,XSS Targeting URI Placeholders,CWE-83,False
+CAPEC-245,XSS Using Doubled Characters,CWE-85,False
+CAPEC-247,XSS Using Invalid Characters,CWE-86,False
+CAPEC-248,Command Injection,CWE-77,False
+CAPEC-25,Forced Deadlock,CWE-412,False
+CAPEC-25,Forced Deadlock,CWE-567,False
+CAPEC-25,Forced Deadlock,CWE-662,False
+CAPEC-25,Forced Deadlock,CWE-667,False
+CAPEC-25,Forced Deadlock,CWE-833,False
+CAPEC-25,Forced Deadlock,CWE-1322,False
+CAPEC-250,XML Injection,CWE-20,False
+CAPEC-250,XML Injection,CWE-74,False
+CAPEC-250,XML Injection,CWE-91,False
+CAPEC-250,XML Injection,CWE-707,False
+CAPEC-251,Local Code Inclusion,CWE-829,False
+CAPEC-252,PHP Local File Inclusion,CWE-829,False
+CAPEC-253,Remote Code Inclusion,CWE-829,False
+CAPEC-256,SOAP Array Overflow,CWE-805,False
+CAPEC-26,Leveraging Race Conditions,CWE-362,False
+CAPEC-26,Leveraging Race Conditions,CWE-363,False
+CAPEC-26,Leveraging Race Conditions,CWE-366,False
+CAPEC-26,Leveraging Race Conditions,CWE-368,False
+CAPEC-26,Leveraging Race Conditions,CWE-370,False
+CAPEC-26,Leveraging Race Conditions,CWE-662,False
+CAPEC-26,Leveraging Race Conditions,CWE-665,False
+CAPEC-26,Leveraging Race Conditions,CWE-667,False
+CAPEC-26,Leveraging Race Conditions,CWE-689,False
+CAPEC-26,Leveraging Race Conditions,CWE-1223,False
+CAPEC-26,Leveraging Race Conditions,CWE-1254,False
+CAPEC-26,Leveraging Race Conditions,CWE-1298,False
+CAPEC-261,Fuzzing for garnering other adjacent user/sensitive data,CWE-20,False
+CAPEC-263,Force Use of Corrupted Files,CWE-829,False
+CAPEC-267,Leverage Alternate Encoding,CWE-20,False
+CAPEC-267,Leverage Alternate Encoding,CWE-73,False
+CAPEC-267,Leverage Alternate Encoding,CWE-74,False
+CAPEC-267,Leverage Alternate Encoding,CWE-172,False
+CAPEC-267,Leverage Alternate Encoding,CWE-173,False
+CAPEC-267,Leverage Alternate Encoding,CWE-180,False
+CAPEC-267,Leverage Alternate Encoding,CWE-181,False
+CAPEC-267,Leverage Alternate Encoding,CWE-692,False
+CAPEC-267,Leverage Alternate Encoding,CWE-697,False
+CAPEC-268,Audit Log Manipulation,CWE-117,True
+CAPEC-27,Leveraging Race Conditions via Symbolic Links,CWE-61,False
+CAPEC-27,Leveraging Race Conditions via Symbolic Links,CWE-367,False
+CAPEC-27,Leveraging Race Conditions via Symbolic Links,CWE-662,False
+CAPEC-27,Leveraging Race Conditions via Symbolic Links,CWE-667,False
+CAPEC-27,Leveraging Race Conditions via Symbolic Links,CWE-689,False
+CAPEC-270,Modification of Registry Run Keys,CWE-15,False
+CAPEC-271,Schema Poisoning,CWE-15,False
+CAPEC-273,HTTP Response Smuggling,CWE-74,False
+CAPEC-273,HTTP Response Smuggling,CWE-436,False
+CAPEC-273,HTTP Response Smuggling,CWE-444,False
+CAPEC-274,HTTP Verb Tampering,CWE-302,False
+CAPEC-274,HTTP Verb Tampering,CWE-654,False
+CAPEC-275,DNS Rebinding,CWE-350,False
+CAPEC-276,Inter-component Protocol Manipulation,CWE-707,False
+CAPEC-277,Data Interchange Protocol Manipulation,CWE-707,False
+CAPEC-278,Web Services Protocol Manipulation,CWE-707,False
+CAPEC-279,SOAP Manipulation,CWE-707,False
+CAPEC-28,Fuzzing,CWE-20,False
+CAPEC-28,Fuzzing,CWE-74,False
+CAPEC-285,ICMP Echo Request Ping,CWE-200,False
+CAPEC-287,TCP SYN Scan,CWE-200,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-362,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-366,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-367,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-368,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-370,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-662,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-663,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-665,False
+CAPEC-29,Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions,CWE-691,False
+CAPEC-290,Enumerate Mail Exchange (MX) Records,CWE-200,False
+CAPEC-291,DNS Zone Transfers,CWE-200,False
+CAPEC-292,Host Discovery,CWE-200,True
+CAPEC-293,Traceroute Route Enumeration,CWE-200,False
+CAPEC-294,ICMP Address Mask Request,CWE-200,False
+CAPEC-295,Timestamp Request,CWE-200,False
+CAPEC-296,ICMP Information Request,CWE-200,False
+CAPEC-297,TCP ACK Ping,CWE-200,False
+CAPEC-298,UDP Ping,CWE-200,False
+CAPEC-299,TCP SYN Ping,CWE-200,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-20,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-41,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-74,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-172,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-173,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-179,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-180,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-181,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-183,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-184,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-697,False
+CAPEC-3,Using Leading 'Ghost' Character Sequences to Bypass Input Filters,CWE-707,False
+CAPEC-30,Hijacking a Privileged Thread of Execution,CWE-270,False
+CAPEC-300,Port Scanning,CWE-200,False
+CAPEC-301,TCP Connect Scan,CWE-200,False
+CAPEC-302,TCP FIN Scan,CWE-200,False
+CAPEC-303,TCP Xmas Scan,CWE-200,False
+CAPEC-304,TCP Null Scan,CWE-200,False
+CAPEC-305,TCP ACK Scan,CWE-200,False
+CAPEC-306,TCP Window Scan,CWE-200,False
+CAPEC-307,TCP RPC Scan,CWE-200,False
+CAPEC-308,UDP Scan,CWE-200,False
+CAPEC-309,Network Topology Mapping,CWE-200,True
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-20,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-113,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-302,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-311,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-315,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-384,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-472,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-539,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-565,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-602,False
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,CWE-642,False
+CAPEC-310,Scanning for Vulnerable Software,CWE-200,False
+CAPEC-312,Active OS Fingerprinting,CWE-200,True
+CAPEC-313,Passive OS Fingerprinting,CWE-200,True
+CAPEC-317,IP ID Sequencing Probe,CWE-200,False
+CAPEC-318,IP 'ID' Echoed Byte-Order Probe,CWE-200,False
+CAPEC-319,IP (DF) 'Don't Fragment Bit' Echoing Probe,CWE-200,False
+CAPEC-32,XSS Through HTTP Query Strings,CWE-80,False
+CAPEC-320,TCP Timestamp Probe,CWE-200,False
+CAPEC-321,TCP Sequence Number Probe,CWE-200,False
+CAPEC-322,TCP (ISN) Greatest Common Divisor Probe,CWE-200,False
+CAPEC-323,TCP (ISN) Counter Rate Probe,CWE-200,False
+CAPEC-324,TCP (ISN) Sequence Predictability Probe,CWE-200,False
+CAPEC-325,TCP Congestion Control Flag (ECN) Probe,CWE-200,False
+CAPEC-326,TCP Initial Window Size Probe,CWE-200,False
+CAPEC-327,TCP Options Probe,CWE-200,False
+CAPEC-328,TCP 'RST' Flag Checksum Probe,CWE-200,False
+CAPEC-329,ICMP Error Message Quoting Probe,CWE-200,False
+CAPEC-33,HTTP Request Smuggling,CWE-444,False
+CAPEC-330,ICMP Error Message Echoing Integrity Probe,CWE-200,False
+CAPEC-331,ICMP IP Total Length Field Probe,CWE-204,False
+CAPEC-332,ICMP IP 'ID' Field Error Message Probe,CWE-204,False
+CAPEC-34,HTTP Response Splitting,CWE-74,False
+CAPEC-34,HTTP Response Splitting,CWE-113,False
+CAPEC-34,HTTP Response Splitting,CWE-138,False
+CAPEC-34,HTTP Response Splitting,CWE-436,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-59,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-94,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-95,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-96,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-97,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-270,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-272,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,CWE-282,False
+CAPEC-36,Using Unpublished Interfaces or Functionality,CWE-306,False
+CAPEC-36,Using Unpublished Interfaces or Functionality,CWE-693,False
+CAPEC-36,Using Unpublished Interfaces or Functionality,CWE-695,False
+CAPEC-36,Using Unpublished Interfaces or Functionality,CWE-1242,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-226,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-311,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-312,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-314,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-315,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-318,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-525,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1239,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1258,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1266,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1272,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1278,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1301,False
+CAPEC-37,Retrieve Embedded Sensitive Data,CWE-1330,False
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,CWE-426,False
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,CWE-427,False
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-311,False
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-319,False
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-419,False
+CAPEC-383,Harvesting Information via API Event Monitoring,CWE-602,False
+CAPEC-384,Application API Message Manipulation via Man-in-the-Middle,CWE-311,False
+CAPEC-384,Application API Message Manipulation via Man-in-the-Middle,CWE-345,False
+CAPEC-384,Application API Message Manipulation via Man-in-the-Middle,CWE-346,False
+CAPEC-384,Application API Message Manipulation via Man-in-the-Middle,CWE-471,False
+CAPEC-384,Application API Message Manipulation via Man-in-the-Middle,CWE-602,False
+CAPEC-385,Transaction or Event Tampering via Application API Manipulation,CWE-311,False
+CAPEC-385,Transaction or Event Tampering via Application API Manipulation,CWE-345,False
+CAPEC-385,Transaction or Event Tampering via Application API Manipulation,CWE-346,False
+CAPEC-385,Transaction or Event Tampering via Application API Manipulation,CWE-471,False
+CAPEC-385,Transaction or Event Tampering via Application API Manipulation,CWE-602,False
+CAPEC-386,Application API Navigation Remapping,CWE-311,False
+CAPEC-386,Application API Navigation Remapping,CWE-345,False
+CAPEC-386,Application API Navigation Remapping,CWE-346,False
+CAPEC-386,Application API Navigation Remapping,CWE-471,False
+CAPEC-386,Application API Navigation Remapping,CWE-602,False
+CAPEC-387,Navigation Remapping To Propagate Malicious Content,CWE-311,False
+CAPEC-387,Navigation Remapping To Propagate Malicious Content,CWE-345,False
+CAPEC-387,Navigation Remapping To Propagate Malicious Content,CWE-346,False
+CAPEC-387,Navigation Remapping To Propagate Malicious Content,CWE-471,False
+CAPEC-387,Navigation Remapping To Propagate Malicious Content,CWE-602,False
+CAPEC-388,Application API Button Hijacking,CWE-311,False
+CAPEC-388,Application API Button Hijacking,CWE-345,False
+CAPEC-388,Application API Button Hijacking,CWE-346,False
+CAPEC-388,Application API Button Hijacking,CWE-471,False
+CAPEC-388,Application API Button Hijacking,CWE-602,False
+CAPEC-389,Content Spoofing Via Application API Manipulation,CWE-353,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-233,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-285,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-302,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-315,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-353,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-384,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-472,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-539,False
+CAPEC-39,Manipulating Opaque Client-based Data Tokens,CWE-565,False
+CAPEC-4,Using Alternative IP Address Encodings,CWE-173,False
+CAPEC-4,Using Alternative IP Address Encodings,CWE-291,False
+CAPEC-40,Manipulating Writeable Terminal Devices,CWE-77,False
+CAPEC-401,Physically Hacking Hardware,CWE-1263,False
+CAPEC-402,Bypassing ATA Password Security,CWE-285,False
+CAPEC-41,Using Meta-characters in E-mail Headers to Inject Malicious Payloads,CWE-88,False
+CAPEC-41,Using Meta-characters in E-mail Headers to Inject Malicious Payloads,CWE-150,False
+CAPEC-41,Using Meta-characters in E-mail Headers to Inject Malicious Payloads,CWE-697,False
+CAPEC-42,MIME Conversion,CWE-20,False
+CAPEC-42,MIME Conversion,CWE-74,False
+CAPEC-42,MIME Conversion,CWE-119,False
+CAPEC-42,MIME Conversion,CWE-120,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-20,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-74,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-77,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-78,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-179,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-181,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-183,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-184,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-697,False
+CAPEC-43,Exploiting Multiple Input Interpretation Layers,CWE-707,False
+CAPEC-439,Manipulation During Distribution,CWE-1269,True
+CAPEC-44,Overflow Binary Resource File,CWE-119,False
+CAPEC-44,Overflow Binary Resource File,CWE-120,False
+CAPEC-44,Overflow Binary Resource File,CWE-697,False
+CAPEC-441,Malicious Logic Insertion,CWE-284,True
+CAPEC-442,Infected Software,CWE-506,False
+CAPEC-448,Embed Virus into DLL,CWE-506,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-20,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-74,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-118,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-119,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-120,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-285,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-302,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-680,False
+CAPEC-45,Buffer Overflow via Symbolic Links,CWE-697,False
+CAPEC-456,Infected Memory,CWE-1257,False
+CAPEC-456,Infected Memory,CWE-1260,False
+CAPEC-456,Infected Memory,CWE-1274,False
+CAPEC-456,Infected Memory,CWE-1312,False
+CAPEC-456,Infected Memory,CWE-1316,False
+CAPEC-457,USB Memory Attacks,CWE-1299,True
+CAPEC-458,Flash Memory Attacks,CWE-1282,False
+CAPEC-459,Creating a Rogue Certification Authority Certificate,CWE-290,False
+CAPEC-459,Creating a Rogue Certification Authority Certificate,CWE-295,False
+CAPEC-459,Creating a Rogue Certification Authority Certificate,CWE-327,False
+CAPEC-46,Overflow Variables and Tags,CWE-20,False
+CAPEC-46,Overflow Variables and Tags,CWE-74,False
+CAPEC-46,Overflow Variables and Tags,CWE-118,False
+CAPEC-46,Overflow Variables and Tags,CWE-119,False
+CAPEC-46,Overflow Variables and Tags,CWE-120,False
+CAPEC-46,Overflow Variables and Tags,CWE-680,False
+CAPEC-46,Overflow Variables and Tags,CWE-697,False
+CAPEC-46,Overflow Variables and Tags,CWE-733,False
+CAPEC-460,HTTP Parameter Pollution (HPP),CWE-88,False
+CAPEC-460,HTTP Parameter Pollution (HPP),CWE-147,False
+CAPEC-460,HTTP Parameter Pollution (HPP),CWE-235,False
+CAPEC-461,Web Services API Signature Forgery Leveraging Hash Function Extension Weakness,CWE-290,False
+CAPEC-461,Web Services API Signature Forgery Leveraging Hash Function Extension Weakness,CWE-328,False
+CAPEC-462,Cross-Domain Search Timing,CWE-208,False
+CAPEC-462,Cross-Domain Search Timing,CWE-352,False
+CAPEC-462,Cross-Domain Search Timing,CWE-385,False
+CAPEC-463,Padding Oracle Crypto Attack,CWE-209,False
+CAPEC-463,Padding Oracle Crypto Attack,CWE-347,False
+CAPEC-463,Padding Oracle Crypto Attack,CWE-354,False
+CAPEC-463,Padding Oracle Crypto Attack,CWE-514,False
+CAPEC-463,Padding Oracle Crypto Attack,CWE-649,False
+CAPEC-463,Padding Oracle Crypto Attack,CWE-696,False
+CAPEC-464,Evercookie,CWE-359,False
+CAPEC-465,Transparent Proxy Abuse,CWE-441,False
+CAPEC-466,Leveraging Active Adversary in the Middle Attacks to Bypass Same Origin Policy,CWE-300,False
+CAPEC-467,Cross Site Identification,CWE-352,False
+CAPEC-467,Cross Site Identification,CWE-359,False
+CAPEC-468,Generic Cross-Browser Cross-Domain Theft,CWE-149,False
+CAPEC-468,Generic Cross-Browser Cross-Domain Theft,CWE-177,False
+CAPEC-468,Generic Cross-Browser Cross-Domain Theft,CWE-707,False
+CAPEC-468,Generic Cross-Browser Cross-Domain Theft,CWE-838,False
+CAPEC-469,HTTP DoS,CWE-770,False
+CAPEC-469,HTTP DoS,CWE-772,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-20,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-74,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-118,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-119,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-120,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-130,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-131,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-680,False
+CAPEC-47,Buffer Overflow via Parameter Expansion,CWE-697,False
+CAPEC-470,Expanding Control over the Operating System from the Database,CWE-89,False
+CAPEC-470,Expanding Control over the Operating System from the Database,CWE-250,False
+CAPEC-471,Search Order Hijacking,CWE-427,False
+CAPEC-472,Browser Fingerprinting,CWE-200,False
+CAPEC-473,Signature Spoof,CWE-20,True
+CAPEC-473,Signature Spoof,CWE-290,True
+CAPEC-473,Signature Spoof,CWE-327,True
+CAPEC-474,Signature Spoofing by Key Theft,CWE-522,False
+CAPEC-475,Signature Spoofing by Improper Validation,CWE-295,False
+CAPEC-475,Signature Spoofing by Improper Validation,CWE-327,False
+CAPEC-475,Signature Spoofing by Improper Validation,CWE-347,False
+CAPEC-476,Signature Spoofing by Misrepresentation,CWE-290,False
+CAPEC-477,Signature Spoofing by Mixing Signed and Unsigned Content,CWE-311,False
+CAPEC-477,Signature Spoofing by Mixing Signed and Unsigned Content,CWE-319,False
+CAPEC-477,Signature Spoofing by Mixing Signed and Unsigned Content,CWE-693,False
+CAPEC-478,Modification of Windows Service Configuration,CWE-284,False
+CAPEC-479,Malicious Root Certificate,CWE-284,False
+CAPEC-48,Passing Local Filenames to Functions That Expect a URL,CWE-241,False
+CAPEC-48,Passing Local Filenames to Functions That Expect a URL,CWE-706,False
+CAPEC-480,Escaping Virtualization,CWE-693,False
+CAPEC-481,Contradictory Destinations in Traffic Routing Schemes,CWE-923,False
+CAPEC-482,TCP Flood,CWE-770,False
+CAPEC-485,Signature Spoofing by Key Recreation,CWE-330,False
+CAPEC-486,UDP Flood,CWE-770,False
+CAPEC-487,ICMP Flood,CWE-770,False
+CAPEC-488,HTTP Flood,CWE-770,False
+CAPEC-489,SSL Flood,CWE-770,False
+CAPEC-49,Password Brute Forcing,CWE-257,False
+CAPEC-49,Password Brute Forcing,CWE-262,False
+CAPEC-49,Password Brute Forcing,CWE-263,False
+CAPEC-49,Password Brute Forcing,CWE-307,False
+CAPEC-49,Password Brute Forcing,CWE-308,False
+CAPEC-49,Password Brute Forcing,CWE-309,False
+CAPEC-49,Password Brute Forcing,CWE-521,False
+CAPEC-49,Password Brute Forcing,CWE-654,False
+CAPEC-490,Amplification,CWE-770,False
+CAPEC-491,Quadratic Data Expansion,CWE-770,False
+CAPEC-492,Regular Expression Exponential Blowup,CWE-400,False
+CAPEC-492,Regular Expression Exponential Blowup,CWE-1333,False
+CAPEC-493,SOAP Array Blowup,CWE-770,False
+CAPEC-494,TCP Fragmentation,CWE-404,False
+CAPEC-494,TCP Fragmentation,CWE-770,False
+CAPEC-495,UDP Fragmentation,CWE-404,False
+CAPEC-495,UDP Fragmentation,CWE-770,False
+CAPEC-496,ICMP Fragmentation,CWE-404,False
+CAPEC-496,ICMP Fragmentation,CWE-770,False
+CAPEC-497,File Discovery,CWE-200,False
+CAPEC-498,Probe iOS Screenshots,CWE-359,False
+CAPEC-499,Android Intent Intercept,CWE-925,False
+CAPEC-5,Blue Boxing,CWE-285,False
+CAPEC-50,Password Recovery Exploitation,CWE-522,False
+CAPEC-50,Password Recovery Exploitation,CWE-640,False
+CAPEC-500,WebView Injection,CWE-749,False
+CAPEC-500,WebView Injection,CWE-940,False
+CAPEC-501,Android Activity Hijack,CWE-923,False
+CAPEC-502,Intent Spoof,CWE-284,False
+CAPEC-503,WebView Exposure,CWE-284,False
+CAPEC-504,Task Impersonation,CWE-1021,True
+CAPEC-506,Tapjacking,CWE-1021,False
+CAPEC-508,Shoulder Surfing,CWE-200,False
+CAPEC-508,Shoulder Surfing,CWE-359,False
+CAPEC-509,Kerberoasting,CWE-262,False
+CAPEC-509,Kerberoasting,CWE-263,False
+CAPEC-509,Kerberoasting,CWE-294,False
+CAPEC-509,Kerberoasting,CWE-308,False
+CAPEC-509,Kerberoasting,CWE-309,False
+CAPEC-509,Kerberoasting,CWE-521,False
+CAPEC-509,Kerberoasting,CWE-522,False
+CAPEC-51,Poison Web Service Registry,CWE-74,False
+CAPEC-51,Poison Web Service Registry,CWE-285,False
+CAPEC-51,Poison Web Service Registry,CWE-693,False
+CAPEC-510,SaaS User Request Forgery,CWE-346,False
+CAPEC-52,Embedding NULL Bytes,CWE-20,False
+CAPEC-52,Embedding NULL Bytes,CWE-74,False
+CAPEC-52,Embedding NULL Bytes,CWE-158,False
+CAPEC-52,Embedding NULL Bytes,CWE-172,False
+CAPEC-52,Embedding NULL Bytes,CWE-173,False
+CAPEC-52,Embedding NULL Bytes,CWE-697,False
+CAPEC-52,Embedding NULL Bytes,CWE-707,False
+CAPEC-528,XML Flood,CWE-770,False
+CAPEC-53,"Postfix, Null Terminate, and Backslash",CWE-20,False
+CAPEC-53,"Postfix, Null Terminate, and Backslash",CWE-74,False
+CAPEC-53,"Postfix, Null Terminate, and Backslash",CWE-158,False
+CAPEC-53,"Postfix, Null Terminate, and Backslash",CWE-172,False
+CAPEC-53,"Postfix, Null Terminate, and Backslash",CWE-173,False
+CAPEC-53,"Postfix, Null Terminate, and Backslash",CWE-697,False
+CAPEC-53,"Postfix, Null Terminate, and Backslash",CWE-707,False
+CAPEC-533,Malicious Manual Software Update,CWE-494,False
+CAPEC-536,Data Injected During Configuration,CWE-284,False
+CAPEC-538,Open-Source Library Manipulation,CWE-494,False
+CAPEC-538,Open-Source Library Manipulation,CWE-829,False
+CAPEC-54,Query System for Information,CWE-209,False
+CAPEC-540,Overread Buffers,CWE-125,True
+CAPEC-541,Application Fingerprinting,CWE-204,False
+CAPEC-541,Application Fingerprinting,CWE-205,False
+CAPEC-541,Application Fingerprinting,CWE-208,False
+CAPEC-545,Pull Data from System Resources,CWE-1239,False
+CAPEC-545,Pull Data from System Resources,CWE-1243,False
+CAPEC-545,Pull Data from System Resources,CWE-1258,False
+CAPEC-545,Pull Data from System Resources,CWE-1266,False
+CAPEC-545,Pull Data from System Resources,CWE-1272,False
+CAPEC-545,Pull Data from System Resources,CWE-1278,False
+CAPEC-545,Pull Data from System Resources,CWE-1323,False
+CAPEC-545,Pull Data from System Resources,CWE-1330,False
+CAPEC-546,Incomplete Data Deletion in a Multi-Tenant Environment,CWE-284,False
+CAPEC-546,Incomplete Data Deletion in a Multi-Tenant Environment,CWE-1266,False
+CAPEC-546,Incomplete Data Deletion in a Multi-Tenant Environment,CWE-1272,False
+CAPEC-549,Local Execution of Code,CWE-829,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-261,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-262,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-263,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-308,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-309,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-521,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-654,False
+CAPEC-55,Rainbow Table Password Cracking,CWE-916,False
+CAPEC-550,Install New Service,CWE-284,False
+CAPEC-551,Modify Existing Service,CWE-284,False
+CAPEC-551,Modify Existing Service,CWE-522,False
+CAPEC-552,Install Rootkit,CWE-284,True
+CAPEC-554,Functionality Bypass,CWE-424,False
+CAPEC-554,Functionality Bypass,CWE-1299,False
+CAPEC-555,Remote Services with Stolen Credentials,CWE-262,True
+CAPEC-555,Remote Services with Stolen Credentials,CWE-263,True
+CAPEC-555,Remote Services with Stolen Credentials,CWE-294,True
+CAPEC-555,Remote Services with Stolen Credentials,CWE-308,True
+CAPEC-555,Remote Services with Stolen Credentials,CWE-309,True
+CAPEC-555,Remote Services with Stolen Credentials,CWE-521,True
+CAPEC-555,Remote Services with Stolen Credentials,CWE-522,True
+CAPEC-556,Replace File Extension Handlers,CWE-284,False
+CAPEC-558,Replace Trusted Executable,CWE-284,False
+CAPEC-560,Use of Known Domain Credentials,CWE-262,True
+CAPEC-560,Use of Known Domain Credentials,CWE-263,True
+CAPEC-560,Use of Known Domain Credentials,CWE-307,True
+CAPEC-560,Use of Known Domain Credentials,CWE-308,True
+CAPEC-560,Use of Known Domain Credentials,CWE-309,True
+CAPEC-560,Use of Known Domain Credentials,CWE-522,True
+CAPEC-560,Use of Known Domain Credentials,CWE-654,True
+CAPEC-560,Use of Known Domain Credentials,CWE-1273,True
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-262,False
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-263,False
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-294,False
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-308,False
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-309,False
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-521,False
+CAPEC-561,Windows Admin Shares with Stolen Credentials,CWE-522,False
+CAPEC-562,Modify Shared File,CWE-284,False
+CAPEC-563,Add Malicious File to Shared Webroot,CWE-284,False
+CAPEC-564,Run Software at Logon,CWE-284,False
+CAPEC-565,Password Spraying,CWE-262,False
+CAPEC-565,Password Spraying,CWE-263,False
+CAPEC-565,Password Spraying,CWE-307,False
+CAPEC-565,Password Spraying,CWE-308,False
+CAPEC-565,Password Spraying,CWE-309,False
+CAPEC-565,Password Spraying,CWE-521,False
+CAPEC-565,Password Spraying,CWE-654,False
+CAPEC-57,Utilizing REST's Trust in the System Resource to Obtain Sensitive Data,CWE-287,True
+CAPEC-57,Utilizing REST's Trust in the System Resource to Obtain Sensitive Data,CWE-300,True
+CAPEC-57,Utilizing REST's Trust in the System Resource to Obtain Sensitive Data,CWE-693,True
+CAPEC-573,Process Footprinting,CWE-200,True
+CAPEC-574,Services Footprinting,CWE-200,False
+CAPEC-575,Account Footprinting,CWE-200,False
+CAPEC-576,Group Permission Footprinting,CWE-200,False
+CAPEC-577,Owner Footprinting,CWE-200,False
+CAPEC-578,Disable Security Software,CWE-284,False
+CAPEC-579,Replace Winlogon Helper DLL,CWE-15,False
+CAPEC-58,Restful Privilege Elevation,CWE-267,False
+CAPEC-58,Restful Privilege Elevation,CWE-269,False
+CAPEC-580,System Footprinting,CWE-204,True
+CAPEC-580,System Footprinting,CWE-205,True
+CAPEC-580,System Footprinting,CWE-208,True
+CAPEC-586,Object Injection,CWE-502,False
+CAPEC-587,Cross Frame Scripting (XFS),CWE-1021,False
+CAPEC-588,DOM-Based XSS,CWE-20,False
+CAPEC-588,DOM-Based XSS,CWE-79,False
+CAPEC-588,DOM-Based XSS,CWE-83,False
+CAPEC-589,DNS Blocking,CWE-300,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-6,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-200,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-285,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-290,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-330,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-331,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-346,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-384,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-488,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-539,False
+CAPEC-59,Session Credential Falsification through Prediction,CWE-693,False
+CAPEC-590,IP Address Blocking,CWE-300,False
+CAPEC-591,Reflected XSS,CWE-79,False
+CAPEC-592,Stored XSS,CWE-79,False
+CAPEC-593,Session Hijacking,CWE-287,False
+CAPEC-594,Traffic Injection,CWE-940,False
+CAPEC-595,Connection Reset,CWE-940,False
+CAPEC-596,TCP RST Injection,CWE-940,False
+CAPEC-597,Absolute Path Traversal,CWE-36,False
+CAPEC-6,Argument Injection,CWE-74,False
+CAPEC-6,Argument Injection,CWE-78,False
+CAPEC-6,Argument Injection,CWE-146,False
+CAPEC-6,Argument Injection,CWE-184,False
+CAPEC-6,Argument Injection,CWE-185,False
+CAPEC-6,Argument Injection,CWE-697,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-200,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-285,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-290,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-294,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-346,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-384,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-488,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-539,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-664,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),CWE-732,False
+CAPEC-600,Credential Stuffing,CWE-262,False
+CAPEC-600,Credential Stuffing,CWE-263,False
+CAPEC-600,Credential Stuffing,CWE-307,False
+CAPEC-600,Credential Stuffing,CWE-308,False
+CAPEC-600,Credential Stuffing,CWE-309,False
+CAPEC-600,Credential Stuffing,CWE-522,False
+CAPEC-600,Credential Stuffing,CWE-654,False
+CAPEC-606,Weakening of Cellular Encryption,CWE-757,False
+CAPEC-608,Cryptanalysis of Cellular Encryption,CWE-327,False
+CAPEC-609,Cellular Traffic Intercept,CWE-311,False
+CAPEC-61,Session Fixation,CWE-384,False
+CAPEC-61,Session Fixation,CWE-664,False
+CAPEC-61,Session Fixation,CWE-732,False
+CAPEC-612,WiFi MAC Address Tracking,CWE-201,False
+CAPEC-612,WiFi MAC Address Tracking,CWE-300,False
+CAPEC-613,WiFi SSID Tracking,CWE-201,False
+CAPEC-613,WiFi SSID Tracking,CWE-300,False
+CAPEC-614,Rooting SIM Cards,CWE-327,False
+CAPEC-615,Evil Twin Wi-Fi Attack,CWE-300,False
+CAPEC-616,Establish Rogue Location,CWE-200,False
+CAPEC-618,Cellular Broadcast Message Request,CWE-201,False
+CAPEC-619,Signal Strength Tracking,CWE-201,False
+CAPEC-62,Cross Site Request Forgery,CWE-306,False
+CAPEC-62,Cross Site Request Forgery,CWE-352,False
+CAPEC-62,Cross Site Request Forgery,CWE-664,False
+CAPEC-62,Cross Site Request Forgery,CWE-732,False
+CAPEC-62,Cross Site Request Forgery,CWE-1275,False
+CAPEC-620,Drop Encryption Level,CWE-757,False
+CAPEC-621,Analysis of Packet Timing and Sizes,CWE-201,False
+CAPEC-622,Electromagnetic Side-Channel Attack,CWE-201,False
+CAPEC-623,Compromising Emanations Attack,CWE-201,False
+CAPEC-624,Hardware Fault Injection,CWE-1247,False
+CAPEC-624,Hardware Fault Injection,CWE-1248,False
+CAPEC-624,Hardware Fault Injection,CWE-1256,False
+CAPEC-624,Hardware Fault Injection,CWE-1319,False
+CAPEC-624,Hardware Fault Injection,CWE-1332,False
+CAPEC-624,Hardware Fault Injection,CWE-1334,False
+CAPEC-624,Hardware Fault Injection,CWE-1338,False
+CAPEC-624,Hardware Fault Injection,CWE-1351,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1247,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1248,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1256,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1319,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1332,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1334,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1338,False
+CAPEC-625,Mobile Device Fault Injection,CWE-1351,False
+CAPEC-63,Cross-Site Scripting (XSS),CWE-20,False
+CAPEC-63,Cross-Site Scripting (XSS),CWE-79,False
+CAPEC-632,Homograph Attack via Homoglyphs,CWE-1007,False
+CAPEC-633,Token Impersonation,CWE-287,False
+CAPEC-633,Token Impersonation,CWE-1270,False
+CAPEC-634,Probe Audio and Video Peripherals,CWE-267,False
+CAPEC-635,Alternative Execution Due to Deceptive Filenames,CWE-162,True
+CAPEC-636,Hiding Malicious Data or Code within Files,CWE-506,False
+CAPEC-637,Collect Data from Clipboard,CWE-267,False
+CAPEC-639,Probe System Files,CWE-552,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-20,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-22,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-73,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-74,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-172,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-173,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-177,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-697,False
+CAPEC-64,Using Slashes and URL Encoding Combined to Bypass Validation Logic,CWE-707,False
+CAPEC-640,Inclusion of Code in Existing Process,CWE-114,False
+CAPEC-640,Inclusion of Code in Existing Process,CWE-829,False
+CAPEC-641,DLL Side-Loading,CWE-706,False
+CAPEC-642,Replace Binaries,CWE-732,False
+CAPEC-643,Identify Shared Files/Directories on System,CWE-200,False
+CAPEC-643,Identify Shared Files/Directories on System,CWE-267,False
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-294,False
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-308,False
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-522,False
+CAPEC-644,Use of Captured Hashes (Pass The Hash),CWE-836,False
+CAPEC-645,Use of Captured Tickets (Pass The Ticket),CWE-294,False
+CAPEC-645,Use of Captured Tickets (Pass The Ticket),CWE-308,False
+CAPEC-645,Use of Captured Tickets (Pass The Ticket),CWE-522,False
+CAPEC-646,Peripheral Footprinting,CWE-200,False
+CAPEC-647,Collect Data from Registries,CWE-285,False
+CAPEC-648,Collect Data from Screen Capture,CWE-267,True
+CAPEC-649,Adding a Space to a File Extension,CWE-46,True
+CAPEC-65,Sniff Application Code,CWE-311,True
+CAPEC-65,Sniff Application Code,CWE-318,True
+CAPEC-65,Sniff Application Code,CWE-319,True
+CAPEC-65,Sniff Application Code,CWE-693,True
+CAPEC-650,Upload a Web Shell to a Web Server,CWE-287,False
+CAPEC-650,Upload a Web Shell to a Web Server,CWE-553,False
+CAPEC-651,Eavesdropping,CWE-200,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-262,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-263,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-294,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-307,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-308,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-309,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-522,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-654,False
+CAPEC-652,Use of Known Kerberos Credentials,CWE-836,False
+CAPEC-653,Use of Known Operating System Credentials,CWE-262,False
+CAPEC-653,Use of Known Operating System Credentials,CWE-263,False
+CAPEC-653,Use of Known Operating System Credentials,CWE-307,False
+CAPEC-653,Use of Known Operating System Credentials,CWE-308,False
+CAPEC-653,Use of Known Operating System Credentials,CWE-309,False
+CAPEC-653,Use of Known Operating System Credentials,CWE-522,False
+CAPEC-653,Use of Known Operating System Credentials,CWE-654,False
+CAPEC-654,Credential Prompt Impersonation,CWE-1021,False
+CAPEC-657,Malicious Automated Software Update via Spoofing,CWE-494,False
+CAPEC-66,SQL Injection,CWE-89,False
+CAPEC-66,SQL Injection,CWE-1286,False
+CAPEC-660,Root/Jailbreak Detection Evasion via Hooking,CWE-829,False
+CAPEC-661,Root/Jailbreak Detection Evasion via Debugging,CWE-489,False
+CAPEC-662,Adversary in the Browser (AiTB),CWE-300,False
+CAPEC-662,Adversary in the Browser (AiTB),CWE-494,False
+CAPEC-663,Exploitation of Transient Instruction Execution,CWE-1037,False
+CAPEC-663,Exploitation of Transient Instruction Execution,CWE-1264,False
+CAPEC-663,Exploitation of Transient Instruction Execution,CWE-1303,False
+CAPEC-664,Server Side Request Forgery,CWE-20,False
+CAPEC-664,Server Side Request Forgery,CWE-918,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-288,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-345,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-353,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-862,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,CWE-1188,False
+CAPEC-666,BlueSmacking,CWE-404,False
+CAPEC-667,Bluetooth Impersonation AttackS (BIAS),CWE-290,False
+CAPEC-668,Key Negotiation of Bluetooth Attack (KNOB),CWE-285,False
+CAPEC-668,Key Negotiation of Bluetooth Attack (KNOB),CWE-425,False
+CAPEC-668,Key Negotiation of Bluetooth Attack (KNOB),CWE-693,False
+CAPEC-67,String Format Overflow in syslog(),CWE-20,False
+CAPEC-67,String Format Overflow in syslog(),CWE-74,False
+CAPEC-67,String Format Overflow in syslog(),CWE-120,False
+CAPEC-67,String Format Overflow in syslog(),CWE-134,False
+CAPEC-67,String Format Overflow in syslog(),CWE-680,False
+CAPEC-67,String Format Overflow in syslog(),CWE-697,False
+CAPEC-675,Retrieve Data from Decommissioned Devices,CWE-1266,False
+CAPEC-676,NoSQL Injection,CWE-943,False
+CAPEC-676,NoSQL Injection,CWE-1286,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1222,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1252,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1257,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1260,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1274,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1282,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1312,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1316,False
+CAPEC-679,Exploitation of Improperly Configured or Implemented Memory Protections,CWE-1326,False
+CAPEC-68,Subvert Code-signing Facilities,CWE-325,False
+CAPEC-68,Subvert Code-signing Facilities,CWE-328,False
+CAPEC-68,Subvert Code-signing Facilities,CWE-1326,False
+CAPEC-680,Exploitation of Improperly Controlled Registers,CWE-1224,False
+CAPEC-680,Exploitation of Improperly Controlled Registers,CWE-1231,False
+CAPEC-680,Exploitation of Improperly Controlled Registers,CWE-1233,False
+CAPEC-680,Exploitation of Improperly Controlled Registers,CWE-1262,False
+CAPEC-680,Exploitation of Improperly Controlled Registers,CWE-1283,False
+CAPEC-681,Exploitation of Improperly Controlled Hardware Security Identifiers,CWE-1259,False
+CAPEC-681,Exploitation of Improperly Controlled Hardware Security Identifiers,CWE-1267,False
+CAPEC-681,Exploitation of Improperly Controlled Hardware Security Identifiers,CWE-1270,False
+CAPEC-681,Exploitation of Improperly Controlled Hardware Security Identifiers,CWE-1294,False
+CAPEC-681,Exploitation of Improperly Controlled Hardware Security Identifiers,CWE-1302,False
+CAPEC-682,Exploitation of Firmware or ROM Code with Unpatchable Vulnerabilities,CWE-1277,False
+CAPEC-682,Exploitation of Firmware or ROM Code with Unpatchable Vulnerabilities,CWE-1310,False
+CAPEC-69,Target Programs with Elevated Privileges,CWE-15,False
+CAPEC-69,Target Programs with Elevated Privileges,CWE-250,False
+CAPEC-691,Spoof Open-Source Software Metadata,CWE-494,True
+CAPEC-692,Spoof Version Control System Commit Metadata,CWE-494,True
+CAPEC-693,StarJacking,CWE-494,False
+CAPEC-694,System Location Discovery,CWE-497,False
+CAPEC-695,Repo Jacking,CWE-494,False
+CAPEC-695,Repo Jacking,CWE-829,False
+CAPEC-696,Load Value Injection,CWE-1342,False
+CAPEC-697,DHCP Spoofing,CWE-923,False
+CAPEC-698,Install Malicious Extension,CWE-507,False
+CAPEC-698,Install Malicious Extension,CWE-829,False
+CAPEC-699,Eavesdropping on a Monitor,CWE-1300,False
+CAPEC-7,Blind SQL Injection,CWE-20,False
+CAPEC-7,Blind SQL Injection,CWE-74,False
+CAPEC-7,Blind SQL Injection,CWE-89,False
+CAPEC-7,Blind SQL Injection,CWE-209,False
+CAPEC-7,Blind SQL Injection,CWE-697,False
+CAPEC-7,Blind SQL Injection,CWE-707,False
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-262,True
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-263,True
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-308,True
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-309,True
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-521,True
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-654,True
+CAPEC-70,Try Common or Default Usernames and Passwords,CWE-798,True
+CAPEC-701,Browser in the Middle (BiTM),CWE-294,False
+CAPEC-701,Browser in the Middle (BiTM),CWE-345,False
+CAPEC-702,Exploiting Incorrect Chaining or Granularity of Hardware Debug Components,CWE-1296,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-20,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-74,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-172,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-173,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-176,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-179,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-180,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-183,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-184,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-692,False
+CAPEC-71,Using Unicode Encoding to Bypass Validation Logic,CWE-697,False
+CAPEC-72,URL Encoding,CWE-20,False
+CAPEC-72,URL Encoding,CWE-73,False
+CAPEC-72,URL Encoding,CWE-74,False
+CAPEC-72,URL Encoding,CWE-172,False
+CAPEC-72,URL Encoding,CWE-173,False
+CAPEC-72,URL Encoding,CWE-177,False
+CAPEC-73,User-Controlled Filename,CWE-20,False
+CAPEC-73,User-Controlled Filename,CWE-86,False
+CAPEC-73,User-Controlled Filename,CWE-96,False
+CAPEC-73,User-Controlled Filename,CWE-116,False
+CAPEC-73,User-Controlled Filename,CWE-184,False
+CAPEC-73,User-Controlled Filename,CWE-348,False
+CAPEC-73,User-Controlled Filename,CWE-350,False
+CAPEC-73,User-Controlled Filename,CWE-697,False
+CAPEC-74,Manipulating State,CWE-315,False
+CAPEC-74,Manipulating State,CWE-353,False
+CAPEC-74,Manipulating State,CWE-372,False
+CAPEC-74,Manipulating State,CWE-693,False
+CAPEC-74,Manipulating State,CWE-1245,False
+CAPEC-74,Manipulating State,CWE-1253,False
+CAPEC-74,Manipulating State,CWE-1265,False
+CAPEC-74,Manipulating State,CWE-1271,False
+CAPEC-75,Manipulating Writeable Configuration Files,CWE-77,False
+CAPEC-75,Manipulating Writeable Configuration Files,CWE-99,False
+CAPEC-75,Manipulating Writeable Configuration Files,CWE-346,False
+CAPEC-75,Manipulating Writeable Configuration Files,CWE-349,False
+CAPEC-75,Manipulating Writeable Configuration Files,CWE-353,False
+CAPEC-75,Manipulating Writeable Configuration Files,CWE-354,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-15,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-22,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-23,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-59,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-73,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-74,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-77,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-272,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-285,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-346,False
+CAPEC-76,Manipulating Web Input to File System Calls,CWE-348,False
+CAPEC-77,Manipulating User-Controlled Variables,CWE-15,False
+CAPEC-77,Manipulating User-Controlled Variables,CWE-94,False
+CAPEC-77,Manipulating User-Controlled Variables,CWE-96,False
+CAPEC-77,Manipulating User-Controlled Variables,CWE-285,False
+CAPEC-77,Manipulating User-Controlled Variables,CWE-302,False
+CAPEC-77,Manipulating User-Controlled Variables,CWE-473,False
+CAPEC-77,Manipulating User-Controlled Variables,CWE-1321,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-20,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-22,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-73,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-74,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-172,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-173,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-180,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-181,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-697,False
+CAPEC-78,Using Escaped Slashes in Alternate Encoding,CWE-707,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-20,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-22,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-73,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-74,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-173,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-180,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-181,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-185,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-200,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-697,False
+CAPEC-79,Using Slashes in Alternate Encoding,CWE-707,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-20,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-74,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-118,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-119,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-120,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-680,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-697,False
+CAPEC-8,Buffer Overflow in an API Call,CWE-733,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-20,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-73,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-74,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-172,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-173,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-180,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-181,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-692,False
+CAPEC-80,Using UTF-8 Encoding to Bypass Validation Logic,CWE-697,False
+CAPEC-81,Web Server Logs Tampering,CWE-20,False
+CAPEC-81,Web Server Logs Tampering,CWE-75,False
+CAPEC-81,Web Server Logs Tampering,CWE-93,False
+CAPEC-81,Web Server Logs Tampering,CWE-96,False
+CAPEC-81,Web Server Logs Tampering,CWE-116,False
+CAPEC-81,Web Server Logs Tampering,CWE-117,False
+CAPEC-81,Web Server Logs Tampering,CWE-150,False
+CAPEC-81,Web Server Logs Tampering,CWE-221,False
+CAPEC-81,Web Server Logs Tampering,CWE-276,False
+CAPEC-81,Web Server Logs Tampering,CWE-279,False
+CAPEC-83,XPath Injection,CWE-20,False
+CAPEC-83,XPath Injection,CWE-74,False
+CAPEC-83,XPath Injection,CWE-91,False
+CAPEC-83,XPath Injection,CWE-707,False
+CAPEC-84,XQuery Injection,CWE-74,False
+CAPEC-84,XQuery Injection,CWE-707,False
+CAPEC-85,AJAX Footprinting,CWE-20,False
+CAPEC-85,AJAX Footprinting,CWE-79,False
+CAPEC-85,AJAX Footprinting,CWE-86,False
+CAPEC-85,AJAX Footprinting,CWE-96,False
+CAPEC-85,AJAX Footprinting,CWE-113,False
+CAPEC-85,AJAX Footprinting,CWE-116,False
+CAPEC-85,AJAX Footprinting,CWE-184,False
+CAPEC-85,AJAX Footprinting,CWE-348,False
+CAPEC-85,AJAX Footprinting,CWE-692,False
+CAPEC-86,XSS Through HTTP Headers,CWE-80,False
+CAPEC-87,Forceful Browsing,CWE-285,False
+CAPEC-87,Forceful Browsing,CWE-425,False
+CAPEC-87,Forceful Browsing,CWE-693,False
+CAPEC-88,OS Command Injection,CWE-20,False
+CAPEC-88,OS Command Injection,CWE-78,False
+CAPEC-88,OS Command Injection,CWE-88,False
+CAPEC-88,OS Command Injection,CWE-697,False
+CAPEC-89,Pharming,CWE-346,False
+CAPEC-89,Pharming,CWE-350,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-20,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-74,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-118,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-119,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-120,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-680,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-697,False
+CAPEC-9,Buffer Overflow in Local Command-Line Utilities,CWE-733,False
+CAPEC-90,Reflection Attack in Authentication Protocol,CWE-301,False
+CAPEC-90,Reflection Attack in Authentication Protocol,CWE-303,False
+CAPEC-92,Forced Integer Overflow,CWE-120,False
+CAPEC-92,Forced Integer Overflow,CWE-122,False
+CAPEC-92,Forced Integer Overflow,CWE-128,False
+CAPEC-92,Forced Integer Overflow,CWE-190,False
+CAPEC-92,Forced Integer Overflow,CWE-196,False
+CAPEC-92,Forced Integer Overflow,CWE-680,False
+CAPEC-92,Forced Integer Overflow,CWE-697,False
+CAPEC-93,Log Injection-Tampering-Forging,CWE-75,False
+CAPEC-93,Log Injection-Tampering-Forging,CWE-117,False
+CAPEC-93,Log Injection-Tampering-Forging,CWE-150,False
+CAPEC-94,Adversary in the Middle (AiTM),CWE-287,True
+CAPEC-94,Adversary in the Middle (AiTM),CWE-290,True
+CAPEC-94,Adversary in the Middle (AiTM),CWE-294,True
+CAPEC-94,Adversary in the Middle (AiTM),CWE-300,True
+CAPEC-94,Adversary in the Middle (AiTM),CWE-593,True
+CAPEC-95,WSDL Scanning,CWE-538,False
+CAPEC-96,Block Access to Libraries,CWE-589,False
+CAPEC-97,Cryptanalysis,CWE-327,False
+CAPEC-97,Cryptanalysis,CWE-1204,False
+CAPEC-97,Cryptanalysis,CWE-1240,False
+CAPEC-97,Cryptanalysis,CWE-1241,False
+CAPEC-97,Cryptanalysis,CWE-1279,False
+CAPEC-98,Phishing,CWE-451,True

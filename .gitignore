@@ -1,0 +1,22 @@
+# Local environments and credentials
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.aws/
+.ssh/
+.codex/
+.agents/
+# Models are distributed in separate Hugging Face repositories.
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+# Private experimental artifacts
+outputs/
+results/
+*.log
+.DS_Store

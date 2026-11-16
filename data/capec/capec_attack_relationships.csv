@@ -1,0 +1,272 @@
+capec_id,capec_name,attack_id,attack_name,is_ics
+CAPEC-1,Accessing Functionality Not Properly Constrained by ACLs,T1574.010,Hijack Execution Flow: ServicesFile Permissions Weakness,True
+CAPEC-11,Cause Web Server Misclassification,T1036.006,Masquerading: Space after Filename,False
+CAPEC-112,Brute Force,T1110,Brute Force,False
+CAPEC-114,Authentication Abuse,T1548,Abuse Elevation Control Mechanism,False
+CAPEC-115,Authentication Bypass,T1548,Abuse Elevation Control Mechanism,False
+CAPEC-122,Privilege Abuse,T1548,Abuse Elevation Control Mechanism,False
+CAPEC-125,Flooding,T1498.001,Network Denial of Service: Direct Network Flood,True
+CAPEC-125,Flooding,T1499,Endpoint Denial of Service,True
+CAPEC-127,Directory Indexing,T1083,File and Directory Discovery,False
+CAPEC-13,Subverting Environment Variable Values,T1562.003,Impair Defenses:Impair Command History Logging,False
+CAPEC-13,Subverting Environment Variable Values,T1574.006,Hijack Execution Flow:Dynamic Linker Hijacking,False
+CAPEC-13,Subverting Environment Variable Values,T1574.007,Hijack Execution Flow:Path Interception by PATH Environment Variable,False
+CAPEC-130,Excessive Allocation,T1499.003,Endpoint Denial of Service:Application Exhaustion Flood,True
+CAPEC-131,Resource Leak Exposure,T1499,Endpoint Denial of Service,True
+CAPEC-132,Symlink Attack,T1547.009,Boot or Logon Autostart Execution:Shortcut Modification,False
+CAPEC-141,Cache Poisoning,T1557.002,Adversary-in-the-Middle: ARP Cache Poisoning,True
+CAPEC-142,DNS Cache Poisoning,T1584.002,Compromise Infrastructure: DNS Server,False
+CAPEC-148,Content Spoofing,T1491,Defacement,True
+CAPEC-150,Collect Data from Common Resource Locations,T1003,OS Credential Dumping,False
+CAPEC-150,Collect Data from Common Resource Locations,T1119,Automated Collection,False
+CAPEC-150,Collect Data from Common Resource Locations,T1213,Data from Information Repositories,False
+CAPEC-150,Collect Data from Common Resource Locations,T1530,Data from Cloud Storage Object,False
+CAPEC-150,Collect Data from Common Resource Locations,T1555,Credentials from Password Stores,False
+CAPEC-150,Collect Data from Common Resource Locations,T1602,Data from Configuration Repository,False
+CAPEC-158,Sniffing Network Traffic,T1040,Network Sniffing,True
+CAPEC-158,Sniffing Network Traffic,T1111,Multi-Factor Authentication Interception,True
+CAPEC-159,Redirect Access to Libraries,T1574.008,Hijack Execution Flow:Path Interception by Search Order Hijacking,False
+CAPEC-163,Spear Phishing,T1534,Internal Spearfishing,True
+CAPEC-163,Spear Phishing,T1566.001,Phishing: Spearfishing Attachment,True
+CAPEC-163,Spear Phishing,T1566.002,Phishing: Spearfishing Link,True
+CAPEC-163,Spear Phishing,T1566.003,Phishing: Spearfishing via Service,True
+CAPEC-163,Spear Phishing,T1598.001,Phishing for Information: Spearfishing Service,True
+CAPEC-163,Spear Phishing,T1598.002,Phishing for Information: Spearfishing Attachment,True
+CAPEC-163,Spear Phishing,T1598.003,Phishing for Information: Spearfishing Link,True
+CAPEC-165,File Manipulation,T1036.003,Masquerading: Rename System Utilities,True
+CAPEC-169,Footprinting,T1217,Browser Bookmark Discovery,True
+CAPEC-169,Footprinting,T1592,Gather Victim Host Information,True
+CAPEC-169,Footprinting,T1595,Active Scanning,True
+CAPEC-17,Using Malicious Files,T1574.005,Hijack Execution Flow: Executable Installer File Permissions Weakness,False
+CAPEC-17,Using Malicious Files,T1574.010,Hijack Execution Flow: Services File Permissions Weakness,False
+CAPEC-177,Create files with the same name as files protected with a higher classification,T1036,Masquerading,True
+CAPEC-180,Exploiting Incorrectly Configured Access Control Security Levels,T1574.010,Hijack Execution Flow: Services File Permissions Weaknesses,True
+CAPEC-186,Malicious Software Update,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,False
+CAPEC-187,Malicious Automated Software Update via Redirection,T1072,Software Deployment Tools,False
+CAPEC-19,Embedding Scripts within Scripts,T1027.009,Obfuscated Files or Information: Embedded Payloads,False
+CAPEC-19,Embedding Scripts within Scripts,T1546.004,Event Triggered Execution:.bash_profile and .bashrc,False
+CAPEC-19,Embedding Scripts within Scripts,T1546.016,Event Triggered Execution: Installer Packages,False
+CAPEC-191,Read Sensitive Constants Within an Executable,T1552.001,Unsecured Credentials:Credentials in files,True
+CAPEC-196,Session Credential Falsification through Forging,T1134.002,Access Token Manipulation: Create Process with Token,False
+CAPEC-196,Session Credential Falsification through Forging,T1134.003,Access Token Manipulation: Make and Impersonate Token,False
+CAPEC-196,Session Credential Falsification through Forging,T1606,Forge Web Credentials,False
+CAPEC-2,Inducing Account Lockout,T1531,Account Access Removal,False
+CAPEC-203,Manipulate Registry Information,T1112,Modify Registry,False
+CAPEC-203,Manipulate Registry Information,T1647,Plist Modification,False
+CAPEC-204,Lifting Sensitive Data Embedded in Cache,T1005,Data from Local System,False
+CAPEC-206,Signing Malicious Code,T1553.002,Subvert Trust Controls:Code Signing,False
+CAPEC-21,Exploitation of Trusted Identifiers,T1134,Access Token Manipulation,False
+CAPEC-21,Exploitation of Trusted Identifiers,T1528,Steal Application Access Token,False
+CAPEC-21,Exploitation of Trusted Identifiers,T1539,Steal Web Session Cookie,False
+CAPEC-227,Sustained Client Engagement,T1499,Endpoint Denial of Service,True
+CAPEC-233,Privilege Escalation,T1548,Abuse Elevation Control Mechanism,False
+CAPEC-25,Forced Deadlock,T1499.004,Endpoint Denial of Service: Application or System Exploitation,False
+CAPEC-251,Local Code Inclusion,T1055,Process Injection,False
+CAPEC-267,Leverage Alternate Encoding,T1027,Obfuscated Files or Information,False
+CAPEC-268,Audit Log Manipulation,T1070,Indicator Removal on Host,True
+CAPEC-268,Audit Log Manipulation,T1562.002,Impair Defenses: Disable Windows Event Logging,True
+CAPEC-268,Audit Log Manipulation,T1562.003,Impair Defenses: Impair Command History Logging,True
+CAPEC-268,Audit Log Manipulation,T1562.008,Impair Defenses: Disable Cloud Logs,True
+CAPEC-270,Modification of Registry Run Keys,T1547.001,Boot or Logon Autostart Execution: Registry Run Keys / Start Folder,False
+CAPEC-270,Modification of Registry Run Keys,T1547.014,Boot or Logon Autostart Execution: Active,False
+CAPEC-292,Host Discovery,T1018,Remote System Discovery,True
+CAPEC-295,Timestamp Request,T1124,System Time Discovery,False
+CAPEC-30,Hijacking a Privileged Thread of Execution,T1055.003,Process Injection: Thread Execution Hijacking,False
+CAPEC-300,Port Scanning,T1046,Network Service Scanning,False
+CAPEC-309,Network Topology Mapping,T1016,System Network Configuration Discovery,True
+CAPEC-309,Network Topology Mapping,T1049,System Network Connections Discovery,True
+CAPEC-309,Network Topology Mapping,T1590,Gather Victim Network Information,True
+CAPEC-31,Accessing/Intercepting/Modifying HTTP Cookies,T1539,Steal Web Session Cookie,False
+CAPEC-312,Active OS Fingerprinting,T1082,System Information Discovery,True
+CAPEC-313,Passive OS Fingerprinting,T1082,System Information Discovery,True
+CAPEC-35,Leverage Executable Code in Non-Executable Files,T1027.006,Obfuscated Files or Information: HTML Smuggling,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,T1027.009,Obfuscated Files or Information: Embedded Payloads,False
+CAPEC-35,Leverage Executable Code in Non-Executable Files,T1564.009,Hide Artifacts: Resource Forking,False
+CAPEC-37,Retrieve Embedded Sensitive Data,T1005,Data from Local System,False
+CAPEC-37,Retrieve Embedded Sensitive Data,T1552.004,Unsecured Credentials: Private Keys,False
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,T1574.007,Hijack Execution Flow: Path Interception by PATH Environment Variable,False
+CAPEC-38,Leveraging/Manipulating Configuration File Search Paths,T1574.009,Hijack Execution Flow: Path Interception by Unquoted Path,False
+CAPEC-383,Harvesting Information via API Event Monitoring,T1056.004,Input Capture: Credential API Hooking,False
+CAPEC-407,Pretexting,T1589,Gather Victim Identity Information,False
+CAPEC-438,Modification During Manufacture,T1195,Supply Chain Compromise,True
+CAPEC-439,Manipulation During Distribution,T1195,Supply Chain Compromise,True
+CAPEC-440,Hardware Integrity Attack,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-440,Hardware Integrity Attack,T1200,Hardware Additions,False
+CAPEC-442,Infected Software,T1195.001,Supply Chain Compromise: Compromise Software Dependencies and Development Tools,False
+CAPEC-442,Infected Software,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,False
+CAPEC-443,Malicious Logic Inserted Into Product by Authorized Developer,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,False
+CAPEC-443,Malicious Logic Inserted Into Product by Authorized Developer,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-445,Malicious Logic Insertion into Product Software via Configuration Management Manipulation,T1195.001,Supply Chain Compromise: Compromise Software Dependencies and Development Tools,False
+CAPEC-446,Malicious Logic Insertion into Product via Inclusion of Third-Party Component,T1195,Supply Chain Compromise,False
+CAPEC-448,Embed Virus into DLL,T1027.009,Obfuscated Files or Information: Embedded Payloads,False
+CAPEC-457,USB Memory Attacks,T1091,Replication Through Removable Media,True
+CAPEC-457,USB Memory Attacks,T1092,Communication Through Removable Media,True
+CAPEC-464,Evercookie,T1606.001,Forge Web Credentials: Web Cookies,False
+CAPEC-465,Transparent Proxy Abuse,T1090.001,Proxy: Internal Proxy,False
+CAPEC-469,HTTP DoS,T1499.002,Endpoint Denial of Service: Service Exhaustion Flood,False
+CAPEC-471,Search Order Hijacking,T1574.001,Hijack Execution Flow:DLL search order hijacking,False
+CAPEC-471,Search Order Hijacking,T1574.004,Hijack Execution Flow: Dylib Hijacking,False
+CAPEC-471,Search Order Hijacking,T1574.008,Hijack Execution Flow: Path Interception by Search Order Hijacking,False
+CAPEC-473,Signature Spoof,T1036.001,Masquerading: Invalid Code Signature,True
+CAPEC-473,Signature Spoof,T1553.002,Subvert Trust Controls: Code Signing,True
+CAPEC-474,Signature Spoofing by Key Theft,T1552.004,Unsecured Credentials: Private Keys,False
+CAPEC-478,Modification of Windows Service Configuration,T1574.011,Hijack Execution Flow:Service Registry Permissions Weakness,False
+CAPEC-478,Modification of Windows Service Configuration,T1543.003,Create or Modify System Process:Windows Service,False
+CAPEC-479,Malicious Root Certificate,T1553.004,Subvert Trust Controls:Install Root Certificate,False
+CAPEC-480,Escaping Virtualization,T1611,Escape to Host,False
+CAPEC-481,Contradictory Destinations in Traffic Routing Schemes,T1090.004,Proxy:Domain Fronting,False
+CAPEC-482,TCP Flood,T1498.001,Network Denial of Service: Direct Network Flood,False
+CAPEC-482,TCP Flood,T1499.001,Endpoint Denial of Service: OS Exhaustion Flood,False
+CAPEC-482,TCP Flood,T1499.002,Endpoint Denial of Service: Service Exhaustion Flood,False
+CAPEC-485,Signature Spoofing by Key Recreation,T1552.004,Unsecure Credentials: Private Keys,False
+CAPEC-488,HTTP Flood,T1499.002,Endpoint Denial of Service:Service Exhaustion Flood,False
+CAPEC-489,SSL Flood,T1499.002,Endpoint Denial of Service:Service Exhaustion Flood,False
+CAPEC-49,Password Brute Forcing,T1110.001,Brute Force:Password Guessing,False
+CAPEC-490,Amplification,T1498.002,Network Denial of Service:Reflection Amplification,False
+CAPEC-497,File Discovery,T1083,File and Directory Discovery,False
+CAPEC-504,Task Impersonation,T1036.004,Masquerading: Masquerade Task or Service,True
+CAPEC-509,Kerberoasting,T1558.003,Steal or Forge Kerberos Tickets:Kerberoasting,False
+CAPEC-511,Infiltration of Software Development Environment,T1195.001,Supply Chain Compromise: Compromise Software Dependencies and Development Tools,False
+CAPEC-516,Hardware Component Substitution During Baselining,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-520,Counterfeit Hardware Component Inserted During Product Assembly,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-522,Malicious Hardware Component Replacement,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-523,Malicious Software Implanted,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,False
+CAPEC-528,XML Flood,T1499.002,Endpoint Denial of Service:Service Exhaustion Flood,False
+CAPEC-528,XML Flood,T1498.001,Network Denial of Service:Direct Network Flood,False
+CAPEC-531,Hardware Component Substitution,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-532,Altered Installed BIOS,T1495,Firmware Corruption,False
+CAPEC-532,Altered Installed BIOS,T1542.001,Pre-OS Boot:System Firmware,False
+CAPEC-537,Infiltration of Hardware Development Environment,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-538,Open-Source Library Manipulation,T1195.001,Supply Chain Compromise: Software Dependencies and Development Tools,False
+CAPEC-539,ASIC With Malicious Functionality,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-541,Application Fingerprinting,T1592.002,Gather Victim Host Information: Software,False
+CAPEC-542,Targeted Malware,T1587.001,Develop Capabilities: Malware,False
+CAPEC-542,Targeted Malware,T1027,Obfuscated Files or Information,False
+CAPEC-543,Counterfeit Websites,T1036.005,Masquerading: Match Legitimate Name or Location,False
+CAPEC-545,Pull Data from System Resources,T1005,Data from Local System,False
+CAPEC-545,Pull Data from System Resources,T1555.001,Credentials from Password Stores:Keychain,False
+CAPEC-55,Rainbow Table Password Cracking,T1110.002,Brute Force:Password Cracking,False
+CAPEC-550,Install New Service,T1543,Create or Modify System Process,False
+CAPEC-551,Modify Existing Service,T1543,Create or Modify System Process,False
+CAPEC-552,Install Rootkit,T1014,Rootkit,True
+CAPEC-552,Install Rootkit,T1542.003,Pre-OS Boot:Bootkit,True
+CAPEC-552,Install Rootkit,T1547.006,Boot or Logon Autostart Execution:Kernel Modules and Extensions,True
+CAPEC-555,Remote Services with Stolen Credentials,T1021,Remote Services,True
+CAPEC-555,Remote Services with Stolen Credentials,T1114.002,Email Collection:Remote Email Collection,True
+CAPEC-555,Remote Services with Stolen Credentials,T1133,External Remote Services,True
+CAPEC-556,Replace File Extension Handlers,T1546.001,Event Triggered Execution:Change Default File Association,False
+CAPEC-558,Replace Trusted Executable,T1505.005,Server Software Component: Terminal Services DLL,False
+CAPEC-558,Replace Trusted Executable,T1546.008,Event Triggered Execution: Accessibility Features,False
+CAPEC-560,Use of Known Domain Credentials,T1078,Valid Accounts,True
+CAPEC-561,Windows Admin Shares with Stolen Credentials,T1021.002,Remote Services:SMB/Windows Admin Shares,False
+CAPEC-562,Modify Shared File,T1080,Taint shared content,False
+CAPEC-564,Run Software at Logon,T1037,Boot or Logon Initialization Scripts,False
+CAPEC-564,Run Software at Logon,T1543.001,Create or Modify System Process: Launch Agent,False
+CAPEC-564,Run Software at Logon,T1543.004,Create or Modify System Process: Launch Daemon,False
+CAPEC-564,Run Software at Logon,T1547,Boot or Logon Autostart Execution,False
+CAPEC-565,Password Spraying,T1110.003,Brute Force:Password Spraying,False
+CAPEC-568,Capture Credentials via Keylogger,T1056.001,Input Capture:Keylogging,False
+CAPEC-569,Collect Data as Provided by Users,T1056,Input Capture,False
+CAPEC-57,Utilizing REST's Trust in the System Resource to Obtain Sensitive Data,T1040,Network Sniffing,True
+CAPEC-571,Block Logging to Central Repository,T1562.002,Impair Defenses: Disable Windows Event Logging,False
+CAPEC-571,Block Logging to Central Repository,T1562.006,Impair Defenses: Indicator Blocking,False
+CAPEC-571,Block Logging to Central Repository,T1562.008,Impair Defenses: Disable Cloud Logs,False
+CAPEC-572,Artificially Inflate File Sizes,T1027.001,Obfuscated Files or Information:Binary Padding,False
+CAPEC-573,Process Footprinting,T1057,Process Discovery,True
+CAPEC-574,Services Footprinting,T1007,System Service Discovery,False
+CAPEC-575,Account Footprinting,T1087,Account Discovery,False
+CAPEC-576,Group Permission Footprinting,T1069,Permission Groups Discovery,False
+CAPEC-576,Group Permission Footprinting,T1615,Group Policy Discovery,False
+CAPEC-577,Owner Footprinting,T1033,System Owner/User Discovery,False
+CAPEC-578,Disable Security Software,T1556.006,Modify Authentication Process: Multi-Factor Authentication,False
+CAPEC-578,Disable Security Software,T1562.001,Impair Defenses: Disable or Modify Tools,False
+CAPEC-578,Disable Security Software,T1562.002,Impair Defenses: Disable Windows Event Logging,False
+CAPEC-578,Disable Security Software,T1562.004,Impair Defenses: Disable or Modify System Firewall,False
+CAPEC-578,Disable Security Software,T1562.007,Impair Defenses: Disable or Modify Cloud Firewall,False
+CAPEC-578,Disable Security Software,T1562.008,Impair Defenses: Disable Cloud Logs,False
+CAPEC-578,Disable Security Software,T1562.009,Impair Defenses: Safe Mode Boot,False
+CAPEC-579,Replace Winlogon Helper DLL,T1547.004,Boot or Logon Autostart Execution: Winlogon helper DLL,False
+CAPEC-580,System Footprinting,T1082,System Information Discovery,True
+CAPEC-581,Security Software Footprinting,T1518.001,Software Discovery:Security Software Discovery,False
+CAPEC-593,Session Hijacking,T1185,Browser Session Hijacking,False
+CAPEC-593,Session Hijacking,T1550.001,Use Alternate Authentication Material:Application Access Token,False
+CAPEC-593,Session Hijacking,T1563,Remote Service Session Hijacking,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),T1134.001,Access Token Manipulation:Token Impersonation/Theft,False
+CAPEC-60,Reusing Session IDs (aka Session Replay),T1550.004,Use Alternate Authentication Material:Web Session Cookie,False
+CAPEC-600,Credential Stuffing,T1110.004,Brute Force:Credential Stuffing,False
+CAPEC-609,Cellular Traffic Intercept,T1111,Multi-Factor Authentication Interception,False
+CAPEC-616,Establish Rogue Location,T1036.005,Masquerading: Match Legitimate Name or Location,False
+CAPEC-620,Drop Encryption Level,T1600,Weaken Encryption,False
+CAPEC-633,Token Impersonation,T1134,Access Token Manipulation,False
+CAPEC-634,Probe Audio and Video Peripherals,T1123,Audio Capture,False
+CAPEC-634,Probe Audio and Video Peripherals,T1125,Video Capture,False
+CAPEC-635,Alternative Execution Due to Deceptive Filenames,T1036.007,Masquerading: Double File Extension,True
+CAPEC-636,Hiding Malicious Data or Code within Files,T1001.002,Data Obfuscation: Steganography,False
+CAPEC-636,Hiding Malicious Data or Code within Files,T1027.003,Obfuscated Files or Information: Steganography,False
+CAPEC-636,Hiding Malicious Data or Code within Files,T1027.004,Obfuscated Files or Information: Compile After Delivery,False
+CAPEC-636,Hiding Malicious Data or Code within Files,T1218.001,Signed Binary Proxy Execution: Compiled HTML File,False
+CAPEC-636,Hiding Malicious Data or Code within Files,T1221,Template Injection,False
+CAPEC-637,Collect Data from Clipboard,T1115,Clipboard Data,False
+CAPEC-638,Altered Component Firmware,T1542.002,Pre-OS Boot:Component Firmware,False
+CAPEC-639,Probe System Files,T1039,Data from Network Shared Drive,False
+CAPEC-639,Probe System Files,T1552.001,Unsecured Credentials: Credentials in Files,False
+CAPEC-639,Probe System Files,T1552.003,Unsecured Credentials: Bash History,False
+CAPEC-639,Probe System Files,T1552.004,Unsecured Credentials: Private Keys,False
+CAPEC-639,Probe System Files,T1552.006,Unsecured Credentials: Group Policy Preferences,False
+CAPEC-640,Inclusion of Code in Existing Process,T1505.005,Server Software Component: Terminal Services DLL,False
+CAPEC-640,Inclusion of Code in Existing Process,T1574.006,Hijack Execution Flow: Dynamic Linker Hijacking,False
+CAPEC-640,Inclusion of Code in Existing Process,T1574.013,Hijack Execution Flow: KernelCallbackTable,False
+CAPEC-640,Inclusion of Code in Existing Process,T1620,Reflective Code Loading,False
+CAPEC-641,DLL Side-Loading,T1574.002,Hijack Execution Flow:DLL Side-Loading,False
+CAPEC-642,Replace Binaries,T1505.005,Server Software Component: Terminal Services DLL,False
+CAPEC-642,Replace Binaries,T1554,Compromise Client Software Binary,False
+CAPEC-642,Replace Binaries,T1574.005,Hijack Execution Flow:Executable Installer File Permissions Weakness,False
+CAPEC-643,Identify Shared Files/Directories on System,T1135,Network Share Discovery,False
+CAPEC-644,Use of Captured Hashes (Pass The Hash),T1550.002,Use Alternate Authentication Material:Pass The Hash,False
+CAPEC-645,Use of Captured Tickets (Pass The Ticket),T1550.003,Use Alternate Authentication Material:Pass The Ticket,False
+CAPEC-646,Peripheral Footprinting,T1120,Peripheral Device Discovery,False
+CAPEC-647,Collect Data from Registries,T1005,Data from Local System,False
+CAPEC-647,Collect Data from Registries,T1012,Query Registry,False
+CAPEC-647,Collect Data from Registries,T1552.002,Unsecured Credentials: Credentials in Registry,False
+CAPEC-648,Collect Data from Screen Capture,T1113,Screen Capture,True
+CAPEC-648,Collect Data from Screen Capture,T1513,Screen Capture,True
+CAPEC-649,Adding a Space to a File Extension,T1036.006,Masquerading:Space after Filename,True
+CAPEC-65,Sniff Application Code,T1040,Network Sniffing,True
+CAPEC-650,Upload a Web Shell to a Web Server,T1505.003,Server Software Component:Web Shell,False
+CAPEC-651,Eavesdropping,T1111,Multi-Factor Authentication Interception,False
+CAPEC-652,Use of Known Kerberos Credentials,T1558,Steal or Forge Kerberos Tickets,False
+CAPEC-654,Credential Prompt Impersonation,T1056,Input Capture,False
+CAPEC-654,Credential Prompt Impersonation,T1548.004,Abuse Elevation Control Mechanism: Elevated Execution with Prompt,False
+CAPEC-655,Avoid Security Tool Identification by Adding Data,T1027.001,Obfuscated Files or Information:Binary padding,False
+CAPEC-657,Malicious Automated Software Update via Spoofing,T1072,Software Deployment Tools,False
+CAPEC-660,Root/Jailbreak Detection Evasion via Hooking,T1055,Process Injection,False
+CAPEC-662,Adversary in the Browser (AiTB),T1185,Man in the Browser,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,T1211,Exploitation for Defensive Evasion,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,T1542.002,Pre-OS Boot: Component Firmware,False
+CAPEC-665,Exploitation of Thunderbolt Protection Flaws,T1556,Modify Authentication Process,False
+CAPEC-666,BlueSmacking,T1498.001,Network Denial of Service: Direct Network Flood,False
+CAPEC-666,BlueSmacking,T1499.001,Endpoint Denial of Service: OS Exhaustion Flood,False
+CAPEC-668,Key Negotiation of Bluetooth Attack (KNOB),T1565.002,Data Manipulation: Transmitted Data Manipulation,False
+CAPEC-669,Alteration of a Software Update,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,False
+CAPEC-670,Software Development Tools Maliciously Altered,T1127,Trusted Developer Utilities Proxy Execution,False
+CAPEC-670,Software Development Tools Maliciously Altered,T1195.001,Supply Chain Compromise: Compromise Software Dependencies and Development Tools,False
+CAPEC-671,Requirements for ASIC Functionality Maliciously Altered,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-672,Malicious Code Implanted During Chip Programming,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-673,Developer Signing Maliciously Altered Software,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,False
+CAPEC-674,Design for FPGA Maliciously Altered,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-675,Retrieve Data from Decommissioned Devices,T1052,Exfiltration Over Physical Medium,False
+CAPEC-677,Server Motherboard Compromise,T1195.003,Supply Chain Compromise: Compromise Hardware Supply Chain,False
+CAPEC-678,System Build Data Maliciously Altered,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,False
+CAPEC-68,Subvert Code-signing Facilities,T1553.002,Subvert Trust Controls: Code Signing,False
+CAPEC-691,Spoof Open-Source Software Metadata,T1195.001,Supply Chain Compromise: Compromise Software Dependencies and Development Tools,True
+CAPEC-691,Spoof Open-Source Software Metadata,T1195.002,Supply Chain Compromise: Compromise Software Supply Chain,True
+CAPEC-694,System Location Discovery,T1614,System Language Discovery,False
+CAPEC-695,Repo Jacking,T1195.001,Supply Chain Compromise: Compromise Software Dependencies and Development Tools,False
+CAPEC-697,DHCP Spoofing,T1557.003,Adversary-in-the-Middle: DHCP Spoofing,False
+CAPEC-698,Install Malicious Extension,T1176,Browser Extensions,False
+CAPEC-698,Install Malicious Extension,T1505.004,Server Software Component: IIS Components,False
+CAPEC-70,Try Common or Default Usernames and Passwords,T1078.001,Valid Accounts:Default Accounts,True
+CAPEC-700,Network Boundary Bridging,T1599,Network Boundary Bridging,False
+CAPEC-94,Adversary in the Middle (AiTM),T1557,Adversary-in-the-Middle,True
+CAPEC-98,Phishing,T1566,Phishing,True
+CAPEC-98,Phishing,T1598,Phishing for Information,True
